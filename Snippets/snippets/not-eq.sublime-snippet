@@ -1,0 +1,6 @@
+<snippet>
+	<!-- not-eq -->
+	<content>≠</content>
+	<tabTrigger>!=</tabTrigger>
+	<!-- <scope></scope> -->
+</snippet>

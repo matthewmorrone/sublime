@@ -1,0 +1,4 @@
+[
+	{"command" : "detect_indentation"},
+	{"command" : "unexpand_tabs", "args" : {"set_translate_tabs" : true}}
+]

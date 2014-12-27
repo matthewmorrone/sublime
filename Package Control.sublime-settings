@@ -1,0 +1,47 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Auto Semi-Colon",
+		"Browser Refresh",
+		"Chrome Refresh",
+		"CodeFormatter",
+		"CSS Format",
+		"Diffy",
+		"EasySettings",
+		"ElasticTabstops",
+		"Emmet",
+		"FileDiffs",
+		"Filter Lines",
+		"FixMyJS",
+		"FuzzyFilePath",
+		"Git",
+		"Github Tools",
+		"HighlightWords",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint",
+		"JSON Reindent",
+		"LESS",
+		"Markdown Extended",
+		"Minifier",
+		"Package Control",
+		"plist",
+		"Plist Binary",
+		"Sass",
+		"SublimeCodeIntel",
+		"Terminal",
+		"UnrealScriptIDE",
+		"View In Browser"
+	]
+}

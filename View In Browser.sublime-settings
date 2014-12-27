@@ -1,0 +1,25 @@
+{
+	"posix": {
+		"linux": {
+			"firefox": "firefox -new-tab",
+			"chrome": "google-chrome",
+			"chrome64": "google-chrome",
+			"chromium": "chromium"
+		},
+		"linux2": {
+			"firefox": "firefox -new-tab",
+			"chrome": "google-chrome",
+			"chrome64": "google-chrome",
+			"chromium": "chromium"
+		},
+		"darwin": {
+			"firefox": "open -a \"/Applications/Firefox.app\" $file",
+			"safari": "open -a \"/Applications/Safari.app\" $file",
+			"chrome": "open -a \"/Applications/Google Chrome.app\" $file",
+			"chrome64": "open -a \"/Applications/Google Chrome.app\" $file"
+		}
+	},
+
+
+	"browser": "chrome"
+}

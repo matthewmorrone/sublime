@@ -1,0 +1,66 @@
+
+super+,	open_project,file:${packages/User/Preferences.sublime-project
+super+,	prompt_select_project
+
+super+w	toggle_setting	setting:word_wrap
+
+super+n	new_window
+super+t	new_file
+super+q	close
+
+
+alt+f5	permute_lines	operation:unique
+
+super+f      	find_all_under
+super+g      	show_panel	panel:replace
+super+shift+d	replace_prev
+super+shift+g	replace_next
+super+alt+d  	find_next
+super+alt+g  	find_prev
+
+super+j      	join_lines
+super+shift+j	join_lines_without_space
+super+d      	duplicate_line
+super+k      	run_macro_file	file:Packages/Default/DeleteLine.sublime-macro
+
+super+alt+/	run_macro_file	file:Packages/User/html-comment.sublime-macro
+
+
+
+super+[	fold
+super+]	unfold
+
+super+shift+[	fold_all
+super+shift+]	unfold_all
+
+ctrl+[	prev_view
+ctrl+]	next_view
+
+super+up  	select_lines	forward:false
+super+down	select_lines	forward:true
+
+
+super+shift+t    	normalize_tabs
+super+alt+t      	open_terminal
+super+shift+alt+t	open_terminal_project_folder
+
+super+shift+/	remove_comments
+super+shift+n	remove_extra_linebreaks
+super+shift+b	normalize
+super+shift+r	jsbeautify
+
+
+
+super+shift+i	install_package
+
+
+
+super+o	prompt_add_folder
+
+
+
+
+
+
+ctrl+k+d	reindent	single_line:false
+
