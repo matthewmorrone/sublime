@@ -72,6 +72,7 @@
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
+	"show_full_path": true,
 	"show_panel_on_build": false,
 	"smart_indent": true,
 	"tab_completion": true,

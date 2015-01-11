@@ -25,7 +25,7 @@ def NormalizeLines(edit, view):
 	ReplaceAll(edit, view, ",\n\n", ",\n")
 	ReplaceAll(edit, view, "\t ", "\t")
 
-
+html_comments = "<!--(?s).+?-->"
 line_comments = "\n\s*[^:]\/\/.+"
 block_comments = "/\*([^*]|[\r\n]|(\*+([^*/]|[\r\n])))*\*+/"
 both = "(/\*([^*]|[\r\n]|(\*+([^*/]|[\r\n])))*\*+/)|(\n?\s*[^:]//.*)"
@@ -52,6 +52,17 @@ class RemoveBlockCommentsCommand(sublime_plugin.TextCommand):
 
 		window.run_command("save")
 
+class RemoveHTMLCommentsCommand(sublime_plugin.TextCommand):
+	def run(self, edit):
+		view = self.view
+		window = sublime.active_window()
+
+		ReplaceAll(edit, view, html_comments, "")
+		TrimTrailing(edit, view)
+		NormalizeLines(edit, view)
+
+		window.run_command("save")
+
 
 class RemoveCommentsCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
@@ -60,8 +71,6 @@ class RemoveCommentsCommand(sublime_plugin.TextCommand):
 
 
 		ReplaceAll(edit, view, both, "")
-		# ReplaceAll(edit, self.view, line_comments, "")
-		# ReplaceAll(edit, self.view, block_comments, "")
 
 		TrimTrailing(edit, view)
 		NormalizeLines(edit, view)
