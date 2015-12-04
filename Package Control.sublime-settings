@@ -1,32 +1,38 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
+		"Chrome Refresh"
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"Auto Refresh",
 		"Auto Semi-Colon",
+		"AutoHotkey",
 		"Browser Refresh",
+		"Chain of Command",
 		"Chrome Refresh",
 		"CodeFormatter",
+		"ColorPicker",
 		"CSS Format",
 		"Diffy",
+		"EasyDiff",
 		"EasySettings",
+		"Edit Command Palette",
 		"ElasticTabstops",
 		"Emmet",
-		"FileDiffs",
 		"Filter Lines",
-		"FixMyJS",
 		"FuzzyFilePath",
 		"Git",
 		"Github Tools",
 		"HighlightWords",
-		"HTMLBeautify",
+		"HTML Extended",
+		"HTML Nest Comments",
+		"HTML-CSS-JS Prettify",
+		"ImprovedSQL",
+		"INI",
 		"Javascript Beautify",
 		"JavaScript Refactor",
 		"JavaScriptNext - ES6 Syntax",
@@ -36,13 +42,24 @@
 		"LESS",
 		"Markdown Extended",
 		"Minifier",
+		"Missing Palette Commands",
+		"Open Folder",
+		"Oracle PL SQL",
 		"Package Control",
+		"PHP Codebeautifier",
+		"PHP Companion",
+		"php-grammar",
+		"phpfmt",
 		"plist",
 		"Plist Binary",
+		"QuickRef Command Lookup",
 		"Sass",
+		"ShellCommand",
+		"SqlBeautifier",
+		"SQLPlus",
 		"SublimeCodeIntel",
+		"SublimeREPL",
 		"Terminal",
-		"UnrealScriptIDE",
 		"View In Browser"
 	]
 }
