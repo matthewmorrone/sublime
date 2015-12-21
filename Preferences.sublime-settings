@@ -5,7 +5,7 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"auto_find_in_selection": false,
+	"auto_find_in_selection": true,
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"binary_file_patterns":
@@ -23,6 +23,7 @@
 	"file_exclude_patterns":
 	[
 		"*.pyc",
+		"*.ini",
 		"*.pyo",
 		"*.obj",
 		"*.o",
@@ -42,7 +43,7 @@
 		"*.dll",
 		".DS_Store"
 	],
-	"find_selected_text": true,
+	"find_selected_text": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -65,7 +66,6 @@
 		"Git",
 		"Github Tools",
 		"PHP",
-		"Terminal",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -95,7 +95,7 @@
 	"tab_completion": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
-	"trim_automatic_white_space": false,
+	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
 	"word_separators": "./\\()\"'-:,.;~!@#$%^&*|+=[]{}`~?",
