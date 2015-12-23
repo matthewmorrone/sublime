@@ -1,9 +1,0 @@
-{
-	"autocomplete": true,
-	"format_on_save": false,
-	"passes":
-	[
-		"ReindentSwitchBlocks"
-	],
-	"version": 4
-}

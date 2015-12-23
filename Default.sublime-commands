@@ -1,59 +1,58 @@
 [
-	{
-		"caption": "Find All Under Expand",
-		"command": "find_all_under_expand"
-	},
-	{
-		"caption": "Join Lines Without Space",
-		"command": "join_lines_without_space"
-	},
-	{
-		"caption": "Normalize",
-		"command": "normalize"
-	},
-	{
-		"caption": "Normalize Curlies",
-		"command": "normalize_curlies"
-	},
-	{
-		"caption": "Normalize Brackets",
-		"command": "normalize_brackets"
-	},
-	{
-		"caption": "Normalize Parens",
-		"command": "normalize_parens"
-	},
-	{
-		"caption": "Normalize Tabs",
-		"command": "normalize_tabs"
-	},
-	{
-		"caption": "Remove Comments",
-		"command": "remove_comments"
-	},
-	{
-		"caption": "Remove Block Comments",
-		"command": "remove_block_comments"
-	},
-	{
-		"caption": "Remove Line Comments",
-		"command": "remove_line_comments"
-	},
-	{
-		"caption": "Remove Linebreaks",
-		"command": "remove_linebreaks"
-	},
-	{
-		"caption": "Remove Some Linebreaks",
-		"command": "remove_some_linebreaks"
-	},
-	{
-		"caption": "Convert to Two Spaces",
-		"command": "convert_to_two_spaces"
-	},
-	{
-		"caption": "",
-		"command": ""
-	},
-
+    {
+        "caption": "Find All Under Expand",
+        "command": "find_all_under_expand"
+    },
+    {
+        "caption": "Join Lines Without Space",
+        "command": "join_lines_without_space"
+    },
+    {
+        "caption": "Normalize",
+        "command": "normalize"
+    },
+    {
+        "caption": "Normalize Curlies",
+        "command": "normalize_curlies"
+    },
+    {
+        "caption": "Normalize Brackets",
+        "command": "normalize_brackets"
+    },
+    {
+        "caption": "Normalize Parens",
+        "command": "normalize_parens"
+    },
+    {
+        "caption": "Normalize Tabs",
+        "command": "normalize_tabs"
+    },
+    {
+        "caption": "Remove Comments",
+        "command": "remove_comments"
+    },
+    {
+        "caption": "Remove Block Comments",
+        "command": "remove_block_comments"
+    },
+    {
+        "caption": "Remove Line Comments",
+        "command": "remove_line_comments"
+    },
+    {
+        "caption": "Remove Linebreaks",
+        "command": "remove_linebreaks"
+    },
+    {
+        "caption": "Remove Some Linebreaks",
+        "command": "remove_some_linebreaks"
+    },
+    {
+        "caption": "Convert to Two Spaces",
+        "command": "convert_to_two_spaces"
+    },
+    {
+        "caption": "",
+        "command": ""
+    }
 ]
