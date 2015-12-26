@@ -8,6 +8,6 @@
 	"keep_function_indentation": true,
 
 	// jsformat options
-	"format_on_save": true,
+	"format_on_save": false,
 	"jsbeautifyrc_files": false
 }

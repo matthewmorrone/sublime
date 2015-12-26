@@ -1,0 +1,300 @@
+[
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "find"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "escape"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "find_in_files"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "escape"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "incremental_find"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "escape"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "replace"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "escape"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "find"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "enter"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "incremental_find"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "enter"
+        ]
+    },
+    {
+        "args": {
+            "close_panel": true
+        },
+        "command": "hide_panel",
+        "context": [
+            {
+                "key": "panel",
+                "operand": "replace"
+            },
+            {
+                "key": "panel_has_focus"
+            }
+        ],
+        "keys": [
+            "enter"
+        ]
+    },
+    {},
+    {
+        "args": {
+            "file": "${packages/User/Preferences.sublime-project"
+        },
+        "command": "open_project",
+        "keys": "super+,"
+    },
+    {
+        "command": "prompt_select_project",
+        "keys": "super+,"
+    },
+    {
+        "args": {
+            "setting": "word_wrap"
+        },
+        "command": "toggle_setting",
+        "keys": "super+w"
+    },
+    {
+        "command": "new_window",
+        "keys": "super+n"
+    },
+    {
+        "command": "new_file",
+        "keys": "super+t"
+    },
+    {
+        "command": "close",
+        "keys": "super+q"
+    },
+    {
+        "args": {
+            "operation": "unique"
+        },
+        "command": "permute_lines",
+        "keys": "alt+f5"
+    },
+    {
+        "command": "find_all_under",
+        "keys": "super+f"
+    },
+    {
+        "args": {
+            "panel": "replace"
+        },
+        "command": "show_panel",
+        "keys": "super+g"
+    },
+    {
+        "command": "replace_prev",
+        "keys": "super+shift+d"
+    },
+    {
+        "command": "replace_next",
+        "keys": "super+shift+g"
+    },
+    {
+        "command": "find_next",
+        "keys": "super+alt+d"
+    },
+    {
+        "command": "find_prev",
+        "keys": "super+alt+g"
+    },
+    {
+        "command": "join_lines",
+        "keys": "super+j"
+    },
+    {
+        "command": "join_lines_without_space",
+        "keys": "super+shift+j"
+    },
+    {
+        "command": "duplicate_line",
+        "keys": "super+d"
+    },
+    {
+        "args": {
+            "file": "Packages/Default/DeleteLine.sublime-macro"
+        },
+        "command": "run_macro_file",
+        "keys": "super+k"
+    },
+    {
+        "args": {
+            "file": "Packages/User/html-comment.sublime-macro"
+        },
+        "command": "run_macro_file",
+        "keys": "super+alt+/"
+    },
+    {
+        "command": "fold",
+        "keys": "super+["
+    },
+    {
+        "command": "unfold",
+        "keys": "super+]"
+    },
+    {
+        "command": "fold_all",
+        "keys": "super+shift+["
+    },
+    {
+        "command": "unfold_all",
+        "keys": "super+shift+]"
+    },
+    {
+        "command": "prev_view",
+        "keys": "ctrl+["
+    },
+    {
+        "command": "next_view",
+        "keys": "ctrl+]"
+    },
+    {
+        "args": {
+            "forward": "false"
+        },
+        "command": "select_lines",
+        "keys": "super+up"
+    },
+    {
+        "args": {
+            "forward": "true"
+        },
+        "command": "select_lines",
+        "keys": "super+down"
+    },
+    {
+        "command": "normalize_tabs",
+        "keys": "super+shift+t"
+    },
+    {
+        "command": "open_terminal",
+        "keys": "super+alt+t"
+    },
+    {
+        "command": "open_terminal_project_folder",
+        "keys": "super+shift+alt+t"
+    },
+    {
+        "command": "remove_comments",
+        "keys": "super+shift+/"
+    },
+    {
+        "command": "remove_extra_linebreaks",
+        "keys": "super+shift+n"
+    },
+    {
+        "command": "normalize",
+        "keys": "super+shift+b"
+    },
+    {
+        "command": "jsbeautify",
+        "keys": "super+shift+r"
+    },
+    {
+        "command": "install_package",
+        "keys": "super+shift+i"
+    },
+    {
+        "command": "prompt_add_folder",
+        "keys": "super+o"
+    },
+    {
+        "args": {
+            "single_line": "false"
+        },
+        "command": "reindent",
+        "keys": "ctrl+k+d"
+    }
+]
