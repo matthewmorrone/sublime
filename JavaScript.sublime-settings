@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"scpt",
-		"coffee"
+		"coffee",
+		"html"
 	]
 }

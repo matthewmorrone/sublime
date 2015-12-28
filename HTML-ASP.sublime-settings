@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"aspx"
+		"aspx",
+		"html",
+		"php"
 	]
 }
