@@ -1,13 +1,8 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"Chrome Refresh"
-	],
 	"installed_packages":
 	[
 		"Advanced CSV",
-		"Alignment",
 		"All Autocomplete",
 		"Auto Refresh",
 		"Auto Semi-Colon",
@@ -18,11 +13,9 @@
 		"Chain of Command",
 		"Chrome Refresh",
 		"ClipboardCommands",
-		"ColorPicker",
 		"CSS Format",
 		"CSV",
 		"Delete Current File",
-		"EasyDiff",
 		"EasySettings",
 		"Edit Command Palette",
 		"ElasticTabstops",
@@ -36,12 +29,9 @@
 		"FileBrowser",
 		"FileDiffs",
 		"FileOpTabContextMenu",
-		"Filter Lines",
 		"Focus File on Sidebar",
 		"FuzzyFileNav",
 		"FuzzyFilePath",
-		"Git",
-		"Github Tools",
 		"HighlightWords",
 		"HTML Extended",
 		"HTML Nest Comments",
@@ -63,7 +53,6 @@
 		"PHP Codebeautifier",
 		"PHP Companion",
 		"php-grammar",
-		"phpfmt",
 		"plist",
 		"QuickRef Command Lookup",
 		"ShellCommand",
@@ -73,7 +62,6 @@
 		"SQLPlus",
 		"SublimeCodeIntel",
 		"SublimeREPL",
-		"SyncFileYouWant",
 		"SyntaxHighlighter Reloaded Color Scheme",
 		"Terminal",
 		"TerminalProjectFolder",
