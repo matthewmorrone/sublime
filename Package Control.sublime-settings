@@ -50,7 +50,6 @@
 		"Open Folder",
 		"Oracle PL SQL",
 		"Package Control",
-		"PHP Codebeautifier",
 		"PHP Companion",
 		"php-grammar",
 		"plist",
@@ -61,7 +60,10 @@
 		"SqlBeautifier",
 		"SQLPlus",
 		"SublimeCodeIntel",
+<<<<<<< HEAD
 		"SublimeREPL",
+=======
+>>>>>>> 111402f2faa9b899955e403c026eabb1ba33b2f2
 		"SyntaxHighlighter Reloaded Color Scheme",
 		"Terminal",
 		"TerminalProjectFolder",

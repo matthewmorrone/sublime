@@ -59,6 +59,8 @@
 	"ignored_packages":
 	[
 		"Chrome Refresh",
+		"Git",
+		"Github Tools",
 		"PHP",
 		"Vintage"
 	],
