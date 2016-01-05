@@ -58,11 +58,7 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Chrome Refresh",
-		"Git",
-		"Github Tools",
-		"PHP",
-		"Vintage"
+		"LocalVariable"
 	],
 	"indent_guide_options":
 	[

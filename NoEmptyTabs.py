@@ -18,5 +18,4 @@ class newPaste(sublime_plugin.WindowCommand):
 			window.runCommand('paste')
 
 
-
 # view.set_scratch(True)
