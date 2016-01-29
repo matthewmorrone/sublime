@@ -1,4 +1,8 @@
 [
+
+
+
+
 {"keys":["ctrl+t"],"command":"new_file"},
 {"keys":["ctrl+n"],"command":"new_window"},
 {"keys":["ctrl+o"],"command":"prompt_add_folder"},
@@ -31,7 +35,7 @@
 {"keys":["ctrl+shift+t"],"command":"reopen_last_file"},
 {"keys":["ctrl+shift+r"],"command":"reindent_all"},
 {"keys":["ctrl+f12"],"command":"view_in_browser"},
-
+{ "keys": ["ctrl+shift+a"], "command": "alignment" },
 {"keys":["alt+t"],"command":"open_terminal"},
 {"keys":["shift+alt+t"],"command":"open_terminal_project_folder"},
 
@@ -260,6 +264,22 @@
 {"keys":["ctrl+8"],"command":"select_by_index","args":{"index":7}},
 {"keys":["ctrl+9"],"command":"select_by_index","args":{"index":8}},
 {"keys":["ctrl+0"],"command":"select_by_index","args":{"index":9}},
+
+
+
+{
+"keys": ["ctrl+0"], 
+"command": "text_pastry_range",
+"args": {"start": 0, "step": 1, "padding": 1}
+},
+{
+"keys": ["ctrl+1"], 
+"command": "text_pastry_range",
+"args": {"start": 1, "step": 1, "padding": 1}
+},
+
+
+
 
 
 

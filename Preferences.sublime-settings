@@ -58,7 +58,9 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"LocalVariable"
+		"LocalVariable",
+		"Method",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -76,7 +78,7 @@
 	"match_tags": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": false,
-	"preview_on_click": true,
+	"preview_on_click": false,
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
