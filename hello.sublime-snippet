@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group col-sm-6">
+    <asp:Label
+        ID="lbl${1:a}"
+        CssClass="control-label"
+        Text="${1:a}"
+        runat="server">
+    </asp:Label>
+    <asp:TextBox
+        ID="${1:a}"
+        runat="server"
+        CssClass="form-control"
+        Text='<%# BindItem.${1:a} %>' />
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hello</tabTrigger>
+</snippet>

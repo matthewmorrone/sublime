@@ -10,7 +10,7 @@
 {"keys":["ctrl+w"],"command":"toggle_setting","args":{"setting":"word_wrap"}},
 {"keys":["ctrl+shift+w"],"command":"wrap_lines"},
 {"keys":["ctrl+s"],"command":"save_all"},
-{"keys":["ctrl+b"], "command": "htmlprettify"},
+{"keys":["ctrl+b"],"command":"htmlprettify"},
 {"keys":["ctrl+shift+s"],"command":"prompt_save_as"},
 {"keys":["ctrl+p"],"command":"show_overlay","args":{"overlay":"command_palette"}},
 {"keys":["ctrl+i"],"command":"install_package"},
@@ -25,8 +25,8 @@
 {"keys":["ctrl+q"],"command":"close_file"},
 {"keys":["ctrl+shift+q"],"command":"close_all"},
 {"keys":["ctrl+f"],"command":"find_all_under"},
-{"keys":["ctrl+j"],"command":"join_lines_without_space"},
-{"keys":["ctrl+shift+j"],"command":"join_lines"},
+{"keys":["ctrl+shift+j"],"command":"join_lines_without_space"},
+{"keys":["ctrl+j"],"command":"join_lines"},
 {"keys":["ctrl+d"],"command":"duplicate_line"},
 {"keys":["ctrl+l"],"command":"split_selection_into_lines"},
 {"keys":["ctrl+g"],"command":"show_panel","args":{"panel":"replace","reverse":false}},
@@ -35,9 +35,12 @@
 {"keys":["ctrl+shift+t"],"command":"reopen_last_file"},
 {"keys":["ctrl+shift+r"],"command":"reindent_all"},
 {"keys":["ctrl+f12"],"command":"view_in_browser"},
-{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+{"keys":["ctrl+shift+a"],"command":"alignment"},
 {"keys":["alt+t"],"command":"open_terminal"},
 {"keys":["shift+alt+t"],"command":"open_terminal_project_folder"},
+
+{"keys":["ctrl+`"],"command":"show_panel","args":{"panel":"console","toggle":true}},
+
 
 
 {"keys":["/"],"command":"close_tag","args":{"insert_slash":true},"context":
@@ -268,19 +271,27 @@
 
 
 {
-"keys": ["ctrl+0"], 
-"command": "text_pastry_range",
-"args": {"start": 0, "step": 1, "padding": 1}
+"keys":["ctrl+0"],
+"command":"text_pastry_range",
+"args":{"start":0,"step":1,"padding":1}
 },
 {
-"keys": ["ctrl+1"], 
-"command": "text_pastry_range",
-"args": {"start": 1, "step": 1, "padding": 1}
+"keys":["ctrl+1"],
+"command":"text_pastry_range",
+"args":{"start":1,"step":1,"padding":1}
 },
 
 
+{
+"keys":["alt+n"],
+"command":"new_snippet"
+},
 
 
+{
+"keys":["alt+1"],
+"command":"set_scratch"
+},
 
 
 
