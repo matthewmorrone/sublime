@@ -1,7 +1,13 @@
 {
 	"extensions":
 	[
-		"sublime-commands",
-		".jsbeautifyrc"
+		"geojson",
+		".jscsrc",
+		".eslintrc",
+		".csslintrc",
+		".bowerrc",
+		".jshintrc",
+		".jsbeautifyrc",
+		"sublime-commands"
 	]
 }

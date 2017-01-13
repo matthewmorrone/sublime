@@ -1,0 +1,3017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"start",
+				"startPriority〔variable〕"
+			],
+			[
+				"umbers",
+				"LineNumbersToFile.py"
+			],
+			[
+				"batch",
+				"batchEditingExt"
+			],
+			[
+				"createOption",
+				"createOptionListItem"
+			],
+			[
+				"addC",
+				"addColumnButton"
+			],
+			[
+				"after",
+				"afterAddExtensions"
+			],
+			[
+				"rowC",
+				"rowCountTitle"
+			],
+			[
+				"afterIn",
+				"afterInsertDom"
+			],
+			[
+				"View_Element_",
+				"View_Element_SelectBox"
+			],
+			[
+				"defa",
+				"defaultView"
+			],
+			[
+				"item",
+				"itemElunic"
+			],
+			[
+				"valueOw",
+				"valueOwnerElunic\t(ElunicView.js)"
+			],
+			[
+				"json",
+				"jsonclone\tjsonclone"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"invoice_address",
+				"invoice_address_country"
+			],
+			[
+				"remin",
+				"reminderElement"
+			],
+			[
+				"prevent",
+				"preventDefault\t(TaskManager.js)"
+			],
+			[
+				"contex",
+				"contextBox"
+			],
+			[
+				"checkBox",
+				"checkBoxList"
+			],
+			[
+				"collection",
+				"collection.materialize"
+			],
+			[
+				"class",
+				"class=\"icon\t(Title.js)"
+			],
+			[
+				"disc",
+				"discountSum"
+			],
+			[
+				"filter",
+				"filterAttrib"
+			],
+			[
+				"execute",
+				"executeXhr"
+			],
+			[
+				"Set",
+				"Set-Alias"
+			],
+			[
+				"consolee",
+				"consolee\t(Employee.server.js)"
+			],
+			[
+				"invoice",
+				"invoice_address"
+			],
+			[
+				"deb",
+				"debugger〔keyword〕"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"content",
+				"contentContainer"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"isIn",
+				"isInTheZone"
+			],
+			[
+				"avatar",
+				"avatarWebPath"
+			],
+			[
+				"float",
+				"floatingButtonArea"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"html",
+				"html\tHTML"
+			],
+			[
+				"information",
+				"information_schema\t(mysql.php)"
+			],
+			[
+				"min",
+				"min_article_price_gross"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"current",
+				"currentCategories"
+			],
+			[
+				"login",
+				"loginName"
+			],
+			[
+				"Dash",
+				"DashboardComponent\t(app.module.ts)"
+			],
+			[
+				"module",
+				"moduleId\tproperty"
+			],
+			[
+				"location",
+				"location_postal_address"
+			],
+			[
+				"sales_",
+				"sales_partner_contactable"
+			],
+			[
+				"render",
+				"renderDoc"
+			],
+			[
+				"docx",
+				"docx2html\t(index.phtml)"
+			],
+			[
+				"doc",
+				"docx2html"
+			],
+			[
+				"attir",
+				"attribKey"
+			],
+			[
+				"View_Element",
+				"View_Element_FileUpload\t(ElunicView.js)"
+			],
+			[
+				"attribk",
+				"attribKeys"
+			],
+			[
+				"add",
+				"addButton"
+			],
+			[
+				"create",
+				"createHtmlDoc"
+			],
+			[
+				"dat",
+				"dat[\"positions"
+			],
+			[
+				"white",
+				"white-space"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Projects/eadmin/dev/public/modules/Project/js/models/View/ActivityHelper/Task.js",
+			"settings":
+			{
+				"buffer_size": 77384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/public/modules/Activity/js/models/View/ActivityHelper/TraitForm.js",
+			"settings":
+			{
+				"buffer_size": 61754,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/application/controllers/AdminController.php",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/application/modules/Core/models/Helper/NumericVarchar.php",
+			"settings":
+			{
+				"buffer_size": 6288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/V/projects/eadmin/dev/application/modules/Core/models/Helper/NumericVarchar.php",
+			"settings":
+			{
+				"buffer_size": 6288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/application/modules/Core/controllers/IndexController.php",
+			"settings":
+			{
+				"buffer_size": 14862,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/application/modules/Core/models/Elunic.php",
+			"settings":
+			{
+				"buffer_size": 75497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/public/modules/Contact/js/models/Elunic/Employee.js",
+			"settings":
+			{
+				"buffer_size": 10899,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/public/modules/Core/js/models/Helper/ContextBox.js",
+			"settings":
+			{
+				"buffer_size": 95701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/public/modules/Core/js/models/Helper/ProgressBox.js",
+			"settings":
+			{
+				"buffer_size": 22375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/eadmin/dev/application/modules/Core/controllers/RestController.php",
+			"settings":
+			{
+				"buffer_size": 5756,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 289.0,
+		"last_filter": "under",
+		"selected_items":
+		[
+			[
+				"under",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"fold all",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"insert",
+				"Insert Line Numbers"
+			],
+			[
+				"undersc",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"scopeal",
+				"Toggle ScopeAlways"
+			],
+			[
+				"remove",
+				"Remove Comments"
+			],
+			[
+				"increm",
+				"Increment Selection"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"rename ",
+				"LocalVariable: Rename"
+			],
+			[
+				"localv",
+				"LocalVariable: Rename"
+			],
+			[
+				"camel",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scr",
+				"Set Scratch"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"scrat",
+				"Set Scratch"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color sch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"set scr",
+				"Set Scratch"
+			],
+			[
+				"strip",
+				"Strip Tags"
+			],
+			[
+				"unfol",
+				"Unfold Comments"
+			],
+			[
+				"js f",
+				"Fold JS Functions"
+			],
+			[
+				"index",
+				"Indexing Status"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"view",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"HighlightWords: Toggle Settings"
+			],
+			[
+				"comment",
+				"Unfold Comments"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"incr",
+				"Increment Selection"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"git",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"console",
+				"consolewrap"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"syntax h",
+				"Set Syntax: Haskell"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"json",
+				"String Utilities: Decode JSON"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"syntax t",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"fav",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"clean",
+				"Favorite Files: Clean Orphaned Favorites"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"string con",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"string",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"high",
+				"Highlighter: Toggle Highlighter"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indent JSON"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ahk",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"syntax she",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 617.0,
+		"history":
+		[
+			"view.set_scratch(True)",
+			"view.fold(view.find_by_selector('comment'))",
+			"view.set_scratch(True)",
+			"sublime.log_commands(True)",
+			"view.set_scratch(True)",
+			"sublime.log_commands(True)",
+			"view.set_scratch(True)",
+			"view.set_scratch(False)",
+			"view.set_scratch(True)",
+			"view.set_scratch(true)",
+			"view",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/eadmin/dev",
+		"/C/Projects/eadmin/dev/application",
+		"/C/Projects/eadmin/dev/application/models/Elunic",
+		"/C/Projects/eadmin/dev/application/modules",
+		"/C/Projects/eadmin/dev/application/modules/Core",
+		"/C/Projects/eadmin/dev/application/modules/Core/models",
+		"/C/Projects/eadmin/dev/application/modules/Core/models/Helper",
+		"/C/Projects/eadmin/dev/public/modules",
+		"/C/Projects/eadmin/dev/public/modules/Core",
+		"/C/Projects/eadmin/dev/public/modules/Core/js",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/models",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/models/Helper",
+		"/C/Projects/eadmin/dev/public/modules/Product",
+		"/C/Projects/eadmin/dev/public/modules/Product/js",
+		"/C/Projects/eadmin/dev/public/modules/Product/js/models",
+		"/C/Projects/eadmin/dev/public/modules/Product/js/models/Elunic",
+		"/C/Projects/eadmin/dev/src"
+	],
+	"file_history":
+	[
+		"/C/Projects/eadmin/dev/application/modules/Core/controllers/RestController.php",
+		"/C/Projects/eadmin/dev/application/modules/Core/controllers/HelpController.php",
+		"/C/Projects/eadmin/dev/public/modules/Project/js/models/Elunic/Project/Package.js",
+		"/C/Projects/eadmin/dev/public/modules/Project/js/models/Elunic/Project.js",
+		"/C/Projects/eadmin/dev/public/modules/Finance.Accounting/js/models/Elunic/Activity/InvoiceView.js",
+		"/C/Projects/eadmin/dev/public/modules/Finance.Accounting/js/models/Elunic/Activity/Invoice.js",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/models/Collection.js",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/models/Elunic/CandidateView.js",
+		"/C/Projects/eadmin/dev/public/modules/Contact/js/models/Elunic/Employee.js",
+		"/C/Projects/eadmin/dev/public/modules/Contact/js/models/Elunic/Employee.server.js",
+		"/C/Users/mmorrone/Downloads/temp.html",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/models/Elunic/Candidate.client.js",
+		"/C/Users/mmorrone/Documents/regedit/settings.reg",
+		"/C/Projects/eadmin/dev/application/controllers/AdminController.php",
+		"/C/Projects/eadmin/dev/application/modules/Core/controllers/CleanController.php",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/models/Elunic/Candidate.server.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/Main.sublime-menu",
+		"/C/Users/mmorrone/Downloads/First_Order_emblem-round.svg",
+		"/C/Projects/eadmin/dev/public/modules/Product/js/models/Elunic/SimpleAttributeView.js",
+		"/C/Projects/obrist/application/configs/application.ini",
+		"/C/Projects/obrist/src/configs/application.json",
+		"/C/Projects/eadmin/dev/public/modules/Project/js/models/View/ActivityHelper/Task.js",
+		"/C/Projects/eadmin/dev/public/modules/Activity/js/models/View/ActivityHelper/TraitForm.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Contact/js/ViewExtensions.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Activity/js/models/View/ActivityHelper/TraitForm.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Project/js/models/View/ActivityHelper/Task.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Activity/js/models/View/ActivityHelper/TraitContext.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Activity/js/models/Elunic/Activity.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Activity/js/Extensions/Activities.js",
+		"/C/Users/mmorrone/Downloads/sitepoint.svg",
+		"/C/Projects/starhunter/branches/node/public/modules/Activity/js/Extensions/Activities/-Row.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/View/Element/SelectBox/Options/Elunics/Table.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/CvImport.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/CandidateView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Helper/ProgressBox.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Collection.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/Object.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/admin.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Language.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/View/Element/SelectBox.js",
+		"/C/Projects/starhunter/stable/public/modules/Contact/js/ViewExtensions.js",
+		"/C/Projects/starhunter/stable/public/modules/Headhunter/customizations/Contact/Model/Elunic/CvImport.js",
+		"/C/Projects/starhunter/stable/public/modules/Headhunter/js/models/Elunic/CvImport.js",
+		"/C/Users/mmorrone/Desktop/starhunter_node.sql",
+		"/C/Projects/starhunter/branches/node/public/switches/Final/Headhunter/Model/Elunic/LanguageSkillView.js",
+		"/C/Projects/starhunter/branches/node/public/switches/Final/Headhunter/Model/Elunic/LanguageSkill.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/LanguageSkillView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/LanguageSkill.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/LanguageSkill.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/LanguageSkill.client.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/JavaScript/JavaScript.sublime-syntax",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Job.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/User/fold.py",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/UiCustoms.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/JobView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/View/Element/Table/Extension/misc.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Indexed Symbols.tmPreferences",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/JavaScript/syntax_test_js.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/JavaScript/JSON.sublime-syntax",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/JavaScript/JavaScript Indent.tmPreferences",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/Indentation Rules.tmPreferences",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/Indentation Rules - Comments.tmPreferences",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/Find Results.hidden-tmLanguage",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/indentation.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/show_scope_name.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/new_templates.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/transform.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/save_on_focus_lost.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/comment.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/auto_indent_tag.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Default/Icon (Text).tmPreferences",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/Text/Plain text.tmLanguage",
+		"/C/Projects/starhunter/stable/public/modules/Headhunter/js/models/Elunic/LanguageSkill.js",
+		"/C/Projects/starhunter/stable/public/modules/Headhunter/js/models/Elunic/LanguageSkillView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Language.client.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Language.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/LanguageView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate.client.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/NaviItem/Dashboard/LanguagesView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/NaviItem/Dashboard/Languages.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/NaviItem/Dashboard/Languages.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/NaviItem/Dashboard/Languages.client.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/LanguageView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/Language/Translation.client.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/Language.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/Language.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Core/js/models/Elunic/Language.client.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate/GanttDashboardView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate/GanttDashboard.server.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate/GanttDashboard.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/Candidate/GanttDashboard.client.js",
+		"/C/Users/mmorrone/Downloads/SnapTimer/Readme.md",
+		"/C/Users/mmorrone/Downloads/SnapTimer/Readme.txt",
+		"/C/Projects/starhunter/branches/node/public/modules/Headhunter/js/models/Elunic/NaviItem/Dashboard/CandidatesView.js",
+		"/C/Projects/starhunter/branches/node/public/switches/Final/Headhunter/Model/Elunic/NaviItem/CandidatesView.js",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/models/Elunic/Candidate.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Project/js/models/Elunic/Project.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Project/js/models/Elunic/ProjectView.js",
+		"/C/Projects/starhunter/branches/node/public/modules/Project/js/ViewExtensions.js",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/UiCustoms.js",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/models/View/Element/Table/Extension/misc.js",
+		"/C/Projects/starhunter/branches/node/public/modules/CRM/js/models/Elunic/ProjectView.js",
+		"/C/Projects/eadmin/dev/public/modules/Project/customizations/Contact/Model/Elunic/Employee.server.js",
+		"/C/Projects/eadmin/dev/public/modules/Headhunter/js/models/Elunic/Presentation.js",
+		"/C/Users/mmorrone/Pictures/webp/nfc_manager_2.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_actions.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_tag_wallet.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_manager.svg",
+		"/C/Users/mmorrone/Pictures/webp/gototags.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_tag_data.svg",
+		"/C/Users/mmorrone/Pictures/webp/secure_nfc_2.svg",
+		"/C/Users/mmorrone/Pictures/webp/secure_nfc.svg",
+		"/C/Users/mmorrone/Pictures/webp/trigger.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_tools.svg",
+		"/C/Users/mmorrone/Pictures/webp/nfc_tools_2.svg",
+		"/C/Projects/eadmin/dev/application/modules/Project/models/Elunic/Task/Abstract.php",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/EventBroker.js",
+		"/C/Projects/eadmin/dev/public/modules/Core/js/models/View/Element/Slider.js",
+		"/C/Projects/eadmin/dev/public/modules/Email/js/models/View/Element/Table/Extension/SendMail.js",
+		"/C/Projects/eadmin/dev/application/modules/Activity/models/Elunic/Activity/Task.php",
+		"/C/Projects/eadmin/dev/application/modules/Activity/models/Elunic/Activity/Email.php",
+		"/C/Projects/eadmin/dev/public/modules/Activity/customizations/Core/Model/ElunicView.js",
+		"/C/Projects/eadmin/dev/public/customizations/FinanceAccounting/Model/Elunic/Activity/InvoiceView.js",
+		"/C/Projects/eadmin/dev/public/customizations/FinanceAccounting/Model/Elunic/ActivityView.js",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/User/LineNumbersToFile.py",
+		"/C/Users/mmorrone/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\starhunter\\stable\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\starhunter\\stable\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.php",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\",
+			"C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js",
+			"C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js\\models",
+			"C:\\Projects\\starhunter\\branches\\node\\,*.js",
+			"C:\\Projects\\starhunter\\branches\\node\\",
+			"C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js\\",
+			"C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js\\models\\View",
+			"C:\\Projects\\starhunter\\branches\\node,*.js",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\branches\\node,*.css",
+			"C:\\Projects\\starhunter\\branches\\node,*.js",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\branches\\node,*.js,*.css",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\branches\\node,*.js,*.css",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\branches\\node,*.js",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\starhunter\\stable",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\stable",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\stable",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"<open files>",
+			"C:\\Projects\\starhunter\\branches,-*.ttf,*.js",
+			"C:\\Projects\\starhunter\\branches,-*.ttf",
+			"C:\\Projects\\starhunter\\branches,-*.ttf,*.js",
+			"C:\\Projects\\starhunter\\branches,-*.ttf",
+			"C:\\Projects\\starhunter\\branches,-*.ttf,*.js",
+			"C:\\Projects\\starhunter\\branches,-*.ttf",
+			"C:\\Projects\\starhunter\\stable,-*.ttf",
+			"C:\\Projects\\starhunter\\,-*.ttf",
+			"C:\\Projects\\starhunter\\branches\\,-*.ttf",
+			"C:\\Projects\\starhunter\\branches\\node,-*.ttf",
+			"C:\\Projects\\starhunter\\stable,-*.ttf",
+			"C:\\Projects\\starhunter\\branches\\node,-*.ttf",
+			"C:\\Projects\\starhunter\\stable,-*.ttf",
+			"C:\\Projects\\starhunter\\branches\\node,-*.ttf",
+			"C:\\Projects\\starhunter\\branches\\node",
+			"C:\\Projects\\starhunter\\stable",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js",
+			"C:\\Projects\\eadmin\\dev\\,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*jquery*",
+			"C:\\Projects\\eadmin\\dev\\,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*jquery*,-*.php",
+			"C:\\Projects\\eadmin\\dev\\,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*jquery*",
+			"C:\\Projects\\eadmin\\dev\\,*html,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*jquery*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*jquery*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-jquery*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\libs\\",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\libs\\*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*\\libs\\*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Users\\mmorrone\\Downloads\\Saved Icons",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*\\libs\\*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\libs",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,*JOINED_SCRIPT*js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-*_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-*JOINED_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,",
+			"C:\\Projects\\eadmin\\dev\\,*.js",
+			"C:\\Projects\\eadmin\\dev\\,*.php,*.js",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons,diyz*",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons,diyz*",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\users\\mmorrone\\downloads\\3x",
+			"C:\\projects\\eadmin\\dev",
+			"C:\\projects\\eadmin\\dev,*.js",
+			"C:\\projects\\eadmin\\dev",
+			"C:\\Users\\mmorrone\\Downloads\\universal",
+			"C:\\mmorrone\\Downloads\\universal",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models",
+			"C:\\Projects\\eadmin\\rc",
+			"C:\\Projects\\eadmin\\dev",
+			"*.server.js,C:\\Projects\\eadmin\\dev,-*joined_script.server.js",
+			"*.server.js,C:\\Projects\\eadmin\\dev,-*joined_script.js",
+			"*.server.js,,C:\\Projects\\eadmin\\dev",
+			"*.js,*.html",
+			"",
+			"C:\\Users\\mmorrone\\Downloads\\e1-svg-bw,*.svg",
+			"C:\\Users\\mmorrone\\Downloads\\done,*.svg",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Finance.Accounting",
+			"C:\\Users\\mmorrone\\Downloads\\icons\\messy",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\,*.js,-*.min.js",
+			"C:\\Projects\\eadmin\\,*.js",
+			"C:\\Projects\\eadmin\\",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev,-*.js,-*.ttf",
+			"C:\\Projects\\eadmin\\dev,-*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.phtml"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pdf",
+			"String\\.format",
+			"removeDelayed",
+			"Delayed",
+			"removeDelayed",
+			"hideDelayed",
+			"}\n",
+			"/*\n",
+			"getAll:",
+			"\\.mine",
+			"Headhunter_Model_Elunic_Candidate_ENV",
+			"Headhunter_Model_Elunic_CandidateView",
+			"Headhunter_Model_Elunic_CandidateView\n",
+			"Headhunter_Model_Elunic_CandidateView.prototype =\nHeadhunter_Model_Elunic_CandidateView\n",
+			"<<<",
+			"xxx",
+			"public",
+			"alle pakete anzeigen",
+			"(",
+			"alle pakete anzeigen",
+			"function",
+			"alle pakete anzeigen",
+			"Project_Model_Elunic_Task",
+			"Aktivität",
+			"activityContext",
+			"\\bgetall\\b",
+			"getall\\b",
+			"getall",
+			"progressbox",
+			"fa-text",
+			"\\btext\\b",
+			"cv",
+			"xing",
+			"xingImportRight",
+			"xing",
+			" Zords‎",
+			"(",
+			"[+] ",
+			"[×] ",
+			"skillLevel",
+			"language.?skill",
+			"languageskill",
+			"createFocusFirstRowExt",
+			"debug",
+			"log",
+			"selectbox",
+			"LanguageSkill",
+			"Headhunter_Model_Elunic_LanguageSkill",
+			"conversational",
+			"languages",
+			"\\blanguage",
+			"language",
+			"Elunic_Candidate",
+			"applystatusgroup",
+			"statusgroup",
+			"getstatusgroup",
+			"SelectBox_Extension_ProgressingStatus",
+			"Presentation",
+			"HeadHunter_Extension_PresentationStatus",
+			"PresentationStatus",
+			"presentationstatus",
+			"getstatusgroup",
+			"presentationstatus",
+			"contactlabel",
+			"table_extension_tags",
+			"status",
+			"projectcandidates",
+			"candidate",
+			"\\baktiv\\b",
+			"aktiv",
+			"\\btable",
+			"table",
+			"1b77cf",
+			"31699b",
+			"36bbed",
+			"676767",
+			"79b4f1",
+			"f7fafe",
+			"000000",
+			"ffffff",
+			"000000",
+			"eeae2f",
+			"f67640",
+			"fcf8f6",
+			"31699b",
+			"sendNewAssigneeMail",
+			"zugewiesen",
+			"email",
+			"getAdjustedValue",
+			"  -",
+			"ContextBox.cr",
+			"(",
+			"console",
+			"computePrio",
+			"))\n",
+			"decimals",
+			"return new Big",
+			"valueHelper",
+			"{\n",
+			"inputbox",
+			"inputbox =",
+			"labelview",
+			"View_Element_Slider",
+			"createhtml",
+			"createtrhtml",
+			"table",
+			"continuousdrawing",
+			"rowSection",
+			"activitycontent",
+			"dayoverview",
+			"999",
+			"round",
+			"expFactor",
+			"sliderFactor",
+			"<linearGradient(?s).+?linearGradient>",
+			"<",
+			",:",
+			" ,",
+			";",
+			";  ",
+			" ;:",
+			"sliderFactor",
+			"view_element_slider",
+			"Priorität",
+			"  ",
+			"'",
+			"filter",
+			"core_Model_elunic_class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			" ",
+			"\\n",
+			"",
+			"opacity=\"1.00\"",
+			"ffffff",
+			"fill=\"#ffffff\"",
+			"opacity=\"1.00\"",
+			"fill=\"#ffffff\"",
+			"\\n<path",
+			"fill=\"#ffffff\" opacity=\"1.00\"",
+			"opacity=\"1.00\"",
+			"fill=\"ffffff\"",
+			"\\1 ",
+			"\\n\\1",
+			"",
+			"; #escapechar",
+			"<\\1 \\2",
+			"g \\1",
+			"",
+			"\\3\\4\\1\\2",
+			"<\\1 />"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Projects/eadmin/dev/public/modules/Project/js/models/View/ActivityHelper/Task.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										115,
+										116
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1483620112.41
+							},
+							"function_name_status_row": 18,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Projects/eadmin/dev/public/modules/Activity/js/models/View/ActivityHelper/TraitForm.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										143,
+										144
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1484315829.22
+							},
+							"function_name_status_row": 16,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Projects/eadmin/dev/application/controllers/AdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										933,
+										934
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										247,
+										248
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 18,
+							"origPos":
+							[
+								0.0,
+								57.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Projects/eadmin/dev/application/modules/Core/models/Helper/NumericVarchar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4831,
+								4831
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4854,
+										4855
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4830,
+										4831
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 126,
+							"origPos":
+							[
+								0.0,
+								2245.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/V/projects/eadmin/dev/application/modules/Core/models/Helper/NumericVarchar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5340,
+								5340
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										6287,
+										6288
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 145,
+							"origPos":
+							[
+								0.0,
+								2245.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Projects/eadmin/dev/application/modules/Core/controllers/IndexController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 0,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Projects/eadmin/dev/application/modules/Core/models/Elunic.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 0,
+							"origPos":
+							[
+								0.0,
+								2166.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Projects/eadmin/dev/public/modules/Contact/js/models/Elunic/Employee.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										751,
+										752
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										744,
+										745
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1484046867.62
+							},
+							"function_name_status_row": 23,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Projects/eadmin/dev/public/modules/Core/js/models/Helper/ContextBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1484046867.62
+							},
+							"function_name_status_row": 0,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Projects/eadmin/dev/public/modules/Core/js/models/Helper/ProgressBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15975,
+								15975
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										17306,
+										17307
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1484315829.22
+							},
+							"function_name_status_row": 485,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Projects/eadmin/dev/application/modules/Core/controllers/RestController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1484315829.22,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"function_name_status_row": 0,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 473.0
+	},
+	"output.scopehunter.results":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dev.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"selectbox.js",
+				"public\\modules\\Core\\js\\models\\View\\Element\\SelectBox.js"
+			],
+			[
+				"candidatesview.js",
+				"public\\switches\\Final\\Headhunter\\Model\\Elunic\\NaviItem\\CandidatesView.js"
+			],
+			[
+				"candidate.js",
+				"public\\modules\\Headhunter\\js\\models\\Elunic\\NaviItem\\Dashboard\\CandidatesView.js"
+			],
+			[
+				"project.js",
+				"public\\modules\\CRM\\js\\models\\Elunic\\ProjectView.js"
+			],
+			[
+				"inputbox.js",
+				"public\\modules\\Core\\js\\models\\View\\Element\\InputBox.js"
+			],
+			[
+				"task.js",
+				"public\\modules\\Project\\js\\models\\Elunic\\Task.js"
+			],
+			[
+				"admincontroller",
+				"application\\modules\\Core\\controllers\\AdminController.php"
+			],
+			[
+				"trait",
+				"application\\modules\\Core\\models\\Collection\\TraitPersistence.php"
+			],
+			[
+				"serv",
+				"application\\modules\\Contact\\controllers\\ServiceController.php"
+			],
+			[
+				"action.php",
+				"application\\modules\\Core\\models\\Elunic\\Process\\Action.php"
+			],
+			[
+				"admincontroller.php",
+				"application\\modules\\Core\\controllers\\AdminController.php"
+			],
+			[
+				"viewconfig.js",
+				"public\\modules\\Core\\js\\models\\Elunic\\Ui\\Element\\Table\\Extension\\ViewConfigView.js"
+			],
+			[
+				"candidateview.js",
+				"public\\modules\\Headhunter\\js\\models\\Elunic\\NaviItem\\CandidatesView.js"
+			],
+			[
+				"batchediting.js",
+				"stable\\public\\modules\\Core\\js\\models\\View\\Element\\Table\\Extension\\BatchEditing.js"
+			],
+			[
+				"path.js",
+				"stable\\public\\modules\\Core\\js\\models\\Path.js"
+			],
+			[
+				"rowcount.js",
+				"stable\\public\\modules\\Core\\js\\models\\View\\Element\\Table\\Extension\\RowCount.js"
+			],
+			[
+				"dashboardview.js",
+				"stable\\public\\modules\\Core\\js\\models\\Elunic\\NaviItem\\DashboardView.js"
+			],
+			[
+				"update",
+				"node\\application\\modules\\Core\\controllers\\UpdateController.php"
+			],
+			[
+				"table.css",
+				"stable\\public\\modules\\Core\\css\\ui-element\\table.css"
+			],
+			[
+				"translationhelper.js",
+				"dev\\public\\modules\\Core\\js\\models\\View\\Extension\\TranslationHelper.js"
+			],
+			[
+				"translation.js",
+				"node\\public\\modules\\Core\\js\\models\\View\\Extension\\TranslationHelper.js"
+			],
+			[
+				"table.js",
+				"node\\public\\modules\\Core\\js\\models\\Elunic\\Ui\\Element\\Table.js"
+			],
+			[
+				"ta",
+				"node\\application\\modules\\Core\\models\\Collection\\TraitArray.php"
+			],
+			[
+				"contextbox",
+				"dev\\public\\modules\\Core\\js\\models\\Helper\\ContextBox.js"
+			],
+			[
+				"calendarview.js",
+				"stable\\public\\modules\\Activity\\js\\models\\Elunic\\NaviItem\\CalendarView.js"
+			],
+			[
+				"contactperson",
+				"public\\modules\\ProjectAdmin\\js\\models\\Elunic\\ContactPerson.js"
+			],
+			[
+				"contactperson.js",
+				"public\\modules\\ProjectAdmin\\js\\models\\Elunic\\ContactPerson.client.js"
+			],
+			[
+				"person.js",
+				"public\\modules\\ProjectAdmin\\js\\models\\Elunic\\ContactPerson.js"
+			],
+			[
+				"context",
+				"public\\modules\\Core\\js\\models\\Helper\\ContextBox.js"
+			],
+			[
+				"contactdata.js",
+				"public\\modules\\Headhunter\\js\\models\\CustomRow\\ContactData.js"
+			],
+			[
+				"reminder.js",
+				"dev\\public\\modules\\ProjectAdmin\\customizations\\FinanceAccounting\\Model\\Elunic\\Activity\\Reminder.server.js"
+			],
+			[
+				"reminder",
+				"dev\\public\\modules\\ProjectAdmin\\customizations\\FinanceAccounting\\Model\\Elunic\\Activity\\Reminder.js"
+			],
+			[
+				"tags.js",
+				"public\\modules\\Core\\js\\models\\Elunic\\NaviItem\\Dashboard\\Tags.server.js"
+			],
+			[
+				"tag.js",
+				"public\\modules\\Core\\js\\models\\Elunic\\Tag.js"
+			],
+			[
+				"tags",
+				"branches\\node\\public\\modules\\Core\\js\\helpers\\Tags.js"
+			],
+			[
+				"tag",
+				"stable\\public\\modules\\Core\\js\\helpers\\Tags.js"
+			],
+			[
+				"misc.js",
+				"stable\\public\\modules\\Core\\js\\models\\View\\Element\\Table\\Extension\\misc.js"
+			],
+			[
+				"head.phtml",
+				"stable\\application\\modules\\Headhunter\\views\\scripts\\candidate\\head.phtml"
+			],
+			[
+				"eevent",
+				"dev\\public\\modules\\Core\\js\\models\\EEvent.js"
+			],
+			[
+				"egui.js",
+				"starhunter\\stable\\public\\modules\\Core\\js\\EGui.js"
+			],
+			[
+				"checkbox",
+				"public\\modules\\Core\\js\\models\\View\\Element\\CheckBox.js"
+			],
+			[
+				"taskmanager",
+				"dev\\public\\modules\\Project\\js\\models\\TaskManager.js"
+			],
+			[
+				"xmlhttprequest",
+				"src\\modules\\Core\\node_modules\\xmlhttprequest\\README.md"
+			],
+			[
+				"invoic",
+				"Documents\\InvoiceView.js"
+			],
+			[
+				"zone",
+				"dev\\src\\modules\\Contact\\controllers\\ZoneController.js"
+			],
+			[
+				"employee.js",
+				"dev\\public\\modules\\Contact\\js\\models\\Elunic\\Employee.js"
+			],
+			[
+				"invoiceview.js",
+				"dev\\public\\modules\\Finance.Accounting\\js\\models\\Elunic\\Activity\\InvoiceView.js"
+			],
+			[
+				"vcard.html",
+				"dev\\application\\modules\\Contact\\views\\scripts\\card-dav\\vcard.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\mmorrone\\Documents\\sublime\\default.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

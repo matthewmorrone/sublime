@@ -1,0 +1,716 @@
+
+Action Name 
+ 
+NetBeans 5.5 
+ 
+
+
+ 
+
+Bugtracking 
+ 
+Find Tasks...  -  
+Report Task...  -  
+
+Build 
+ 
+ -  
+Bower Install  -  
+Create Shortcut...  -  
+Remove Shortcut  -  
+Run Target  -  
+npm Install  -  
+
+CommonTestRunner 
+ 
+Debug Focused Test Method  -  
+Rerun All Tests  -  
+Rerun Failed Tests  -  
+Run Focused Test Method  -  
+
+DOM 
+ 
+Add DOM Breakpoint  -  
+Edit CSS Rules  -  
+
+Database 
+ 
+Execute Command...  -  
+
+Debug 
+ 
+Apply Code Changes  -  
+Attach Debugger...  -  
+Continue  Ctrl+F5  
+Debug  -  
+Debug File  Ctrl+Shift+F5  
+Debug Main Project  F5  
+Debug Test File  Ctrl+Shift+F6  
+Evaluate Expression...  Ctrl+F9  
+Finish Debugger Session  Shift+F5  
+Make Callee Current  Ctrl+Alt+UP  
+Make Caller Current  Ctrl+Alt+DOWN  
+New Breakpoint...  Ctrl+Shift+F8  
+New Watch...  Ctrl+Shift+F7  
+Pause  -  
+Pop Topmost Call  -  
+Run Into Method  -  
+Run to Cursor  F4  
+Step Into  F7  
+Step Into Next Method  Shift+F7  
+Step Out  Ctrl+F7  
+Step Over  F8  
+Step Over Expression  Shift+F8  
+Threads History  Alt+Shift+T  
+Toggle Line Breakpoint  Ctrl+F8  
+
+Diff 
+ 
+Ignore Changes In Case  -  
+Ignore Changes In Inner Whitespace  -  
+Ignore Leading And Trailing Whitespace  -  
+
+Edit 
+ 
+Bookmark History Popup Next  F2  
+Bookmark History Popup Previous  Shift+F2  
+Bookmarks  -  
+Clear Document Bookmarks  -  
+Copy  COPY, Ctrl+C, Ctrl+INSERT  
+Copy File Path(s)  Alt+Shift+L  
+Cut  CUT, Shift+DELETE, Ctrl+X  
+Delete Next Character  DELETE  
+Find  FIND, Ctrl+F  
+Find Next Occurrence  F3  
+Find Previous Occurrence  Shift+F3  
+Find Selection  Ctrl+F3  
+Find in Projects...  Ctrl+Shift+F  
+Find...  FIND, Ctrl+F  
+Go to Line...  Ctrl+G  
+Go to Symbol...  -  
+Go to Type...  Alt+Shift+O  
+Next Bookmark  -  
+Open As...  -  
+Open in System  -  
+PHP Type Hierarchy  -  
+Paste  PASTE, Ctrl+V, Shift+INSERT  
+Previous Bookmark  -  
+Print to HTML...  -  
+Quick Search  Ctrl+I  
+Redo  Ctrl+Y  
+Replace  Ctrl+H  
+Replace in Projects...  Ctrl+Shift+H  
+Replace...  Ctrl+H  
+Start Macro Recording  Ctrl+J S  
+Stop Macro Recording  Ctrl+J E  
+Toggle Bookmark  Ctrl+F2  
+Undo  Ctrl+Z, UNDO  
+
+Editor Macros 
+ 
+
+File 
+ 
+Close All Projects  -  
+Close Other Projects  -  
+Page Setup...  -  
+Print...  Ctrl+Alt+Shift+P  
+
+Git 
+ 
+Add  -  
+Add All - Repository  -  
+Apply Stash  -  
+Checkout Files...  -  
+Checkout Revision...  -  
+Cherry Pick...  -  
+Clone...  -  
+Commit All - Repository...  -  
+Commit Project...  -  
+Commit...  -  
+Create Branch...  -  
+Create Tag...  -  
+Delete Branch...  -  
+Diff All To HEAD - Repository  -  
+Diff To HEAD  -  
+Diff To Repository HEAD  -  
+Diff To Tracked  -  
+Diff To...  -  
+Exclude From Commit  -  
+Export Commit...  -  
+Export Uncommitted Changes...  -  
+Fetch from Upstream  -  
+Fetch...  -  
+Ignore  -  
+Include In Commit  -  
+Initialize Repository...  -  
+Manage Tags...  -  
+Merge Revision...  -  
+Open Configuration  -  
+Open Global Configuration  -  
+Open Output  -  
+Open Repository  -  
+Open Status Window  -  
+Pull from Upstream  -  
+Pull...  -  
+Push to Upstream  -  
+Push...  -  
+Rebase...  -  
+Repository Browser  -  
+Reset...  -  
+Resolve All Conflicts - Repository  -  
+Resolve Conflicts  -  
+Revert All Modifications - Repository...  -  
+Revert Commit...  -  
+Revert Modifications...  -  
+Set Tracked Branch...  -  
+Shelve Changes...  -  
+Show All Changes - Repository  -  
+Show Annotations  -  
+Show Changes  -  
+Show History  -  
+Show Incoming  -  
+Show Incoming for Selection  -  
+Show Outgoing  -  
+Show Outgoing for Selection  -  
+Show Repository History  -  
+Stash Changes  -  
+Switch To Branch...  -  
+Unignore  -  
+
+Go To 
+ 
+Go to Declaration  Alt+G  
+
+Help 
+ 
+ F1  
+About  -  
+Help Contents  -  
+Report Issue...  -  
+Start Page  -  
+
+History 
+ 
+Revert Deleted  -  
+Show History  -  
+
+Images 
+ 
+Open In External Editor  -  
+
+Mercurial 
+ 
+Add  -  
+Backout...  -  
+Clone - Selected Repository...  -  
+Clone Other...  -  
+Close Branch...  -  
+Commit...  -  
+Create Branch...  -  
+Create Tag...  -  
+Diff To Base  -  
+Exclude from Commit  -  
+Export Changeset Bundle...  -  
+Export Diff...  -  
+Export Uncommitted Changes...  -  
+Fetch  -  
+Import Changesets...  -  
+Initialize Repository...  -  
+Manage Tags...  -  
+Mark as Resolved  -  
+Mercurial  -  
+Merge Changes  -  
+Properties...  -  
+Pull All Branches  -  
+Pull Current Branch  -  
+Pull...  -  
+Push All Branches  -  
+Push Current Branch  -  
+Push...  -  
+Rebase...  -  
+Resolve Conflicts  -  
+Revert Modifications  -  
+Rollback  -  
+Search History  -  
+Shelve Changes...  -  
+Show Annotations  -  
+Show Changes  -  
+Show Incoming  -  
+Show Outgoing  -  
+Strip...  -  
+Switch Branch...  -  
+Toggle Ignore  -  
+Update...  -  
+Verify  -  
+
+Mercurial/Queues 
+ 
+Create Patch...  -  
+Diff  -  
+Finish Patches...  -  
+Go To Patch...  -  
+Pop All Patches  -  
+Push All Patches  -  
+Refresh Patch...  -  
+
+Other 
+ 
+Annotations Cycling  Ctrl+Shift+C  
+Back  Alt+K  
+Build Tool Tip  -  
+Collapse Fold Tree  -  
+Complete Line  -  
+Complete Line and Create New Line  -  
+Cut from Insertion Point to Line Begining  -  
+Cut from Insertion Point to Line End  -  
+Delete Line  Ctrl+E  
+Delete Next Word  Ctrl+DELETE  
+Delete Preceding Characters in Line  Ctrl+U  
+Delete Previous Character  Shift+BACK_SPACE, BACK_SPACE  
+Delete Previous Word  Ctrl+BACK_SPACE  
+Delete Selection  -  
+Delete Tab  Shift+TAB  
+Dump View Hierarchy  -  
+Duplicate Line(s) Down  Ctrl+Shift+DOWN  
+Duplicate Line(s) Up  Ctrl+Shift+UP  
+Expand Fold Tree  -  
+Extend Selection Backward  Shift+LEFT  
+Extend Selection Down  Shift+DOWN  
+Extend Selection Forward  Shift+RIGHT  
+Extend Selection Up  Shift+UP  
+Extend Selection to Beginning of Document  Ctrl+Shift+HOME  
+Extend Selection to Beginning of Line  -  
+Extend Selection to Beginning of Text on Line  Shift+HOME  
+Extend Selection to Beginning of Word  -  
+Extend Selection to End of Document  Ctrl+Shift+END  
+Extend Selection to End of Line  Shift+END  
+Extend Selection to End of Word  -  
+Extend Selection to First Non-whitespace Char  -  
+Extend Selection to Last Non-whitespace Char  -  
+Extend Selection to Matching Brace  Ctrl+Shift+OPEN_BRACKET  
+Extend Selection to Next Page  Shift+PAGE_DOWN  
+Extend Selection to Next Word  Ctrl+Shift+RIGHT  
+Extend Selection to Previous Page  Shift+PAGE_UP  
+Extend Selection to Previous Word  Ctrl+Shift+LEFT  
+Fast Import  Alt+Shift+I  
+Fixes use statements.  -  
+Forward  Alt+L  
+Go to First Non-whitespace Char  -  
+Go to Last Non-whitespace Char  -  
+Goto Line or Bookmark ...  Ctrl+G  
+Indent  -  
+Insert Code  Alt+INSERT  
+Insert Current Date and Time  -  
+Insert Newline  ENTER  
+Insert Tab  TAB  
+Insertion Point Backward  LEFT, KP_LEFT  
+Insertion Point Down  DOWN, KP_DOWN  
+Insertion Point Forward  RIGHT, KP_RIGHT  
+Insertion Point Up  KP_UP, UP  
+Insertion Point to Beginning of Document  Ctrl+HOME  
+Insertion Point to Beginning of Line  -  
+Insertion Point to Beginning of Text on Line  HOME  
+Insertion Point to Beginning of Word  -  
+Insertion Point to End of Document  Ctrl+END  
+Insertion Point to End of Line  END  
+Insertion Point to End of Word  Alt+U E  
+Insertion Point to Matching Brace  Ctrl+OPEN_BRACKET  
+Insertion Point to Next Word  Ctrl+RIGHT  
+Insertion Point to Previous Word  Ctrl+LEFT  
+Last edit  Ctrl+Q  
+Margin  -  
+Move Code Element Down  -  
+Move Code Element Up  -  
+Move Insertion Point to Bottom  Alt+Shift+B  
+Move Insertion Point to Center  Alt+Shift+M  
+Move Insertion Point to Top  Alt+Shift+T  
+Move Line(s) Down  Alt+DOWN  
+Move Line(s) Up  Alt+UP  
+Navigate to Next Occurrence  -  
+Navigate to Previous Occurrence  -  
+PHP: Go to Action or View  -  
+Page Down  PAGE_DOWN  
+Page Up  PAGE_UP  
+Paste Formatted  Ctrl+Shift+V  
+Paste from History  -  
+Re-format Current Line or Selection  -  
+Re-indent Current Line or Selection  -  
+Remove Trailing Spaces  -  
+Rename  Ctrl+R  
+Run Macro  -  
+Scroll Down  Ctrl+UP  
+Scroll Insertion Point to Bottom  Alt+U B  
+Scroll Insertion Point to Center  Alt+U M  
+Scroll Insertion Point to Top  Alt+U T  
+Scroll Up  Ctrl+DOWN  
+Select All  Ctrl+A  
+Select Database Connection  -  
+Select Identifier  Alt+J  
+Select Line  -  
+Select Next Element  Alt+Shift+S  
+Select Next Parameter  -  
+Select Previous Element  Alt+Shift+A  
+Select Word  -  
+Show All Code Completion Popup  Ctrl+Alt+BACK_SLASH, Ctrl+Alt+SPACE  
+Show Breadcrumbs  -  
+Show Code Completion Popup  Ctrl+SPACE, Ctrl+BACK_SLASH  
+Show Documentation Popup  Ctrl+Shift+BACK_SLASH, Ctrl+Shift+SPACE  
+Show Indent Guide Lines  -  
+Show Method Parameters  Ctrl+P  
+Split Line  Ctrl+ENTER  
+Start New Line  Shift+ENTER  
+Switch Capitalization of Identifier  -  
+Switch Case  Alt+U R  
+To Lowercase  Alt+U L  
+To Uppercase  Alt+U U  
+Toggle Highlight Search  Alt+Shift+H  
+Toggle Line Numbers  -  
+Toggle Non-printable Characters  -  
+Toggle Rectangular Selection  -  
+Toggle Toolbar  -  
+Toggle Typing Mode  INSERT  
+Transpose Letters  -  
+XML Comment  -  
+XML Dump  -  
+XML Uncomment  -  
+Zoom Text In  -  
+Zoom Text Out  -  
+toggle-comment  -  
+
+Output Window 
+ 
+Clear  Ctrl+L  
+Close  Ctrl+F4  
+Filter...  Ctrl+G  
+Larger Font  Ctrl+UP  
+Save As...  Ctrl+S  
+Settings...  -  
+Smaller Font  Ctrl+DOWN  
+Wrap text  Ctrl+R  
+
+PHP 
+ 
+Doctrine2: Run Command...  -  
+Download...  -  
+Run Framework Command...  Alt+Shift+X  
+Symfony2: Clear Cache  -  
+Symfony2: Run Command...  -  
+Symfony2: Warmup Cache  -  
+Symfony: Clear Cache  -  
+Symfony: Run Command...  -  
+Synchronize...  -  
+Upload...  -  
+Zend: Run Command...  -  
+
+Profile 
+ 
+Profile the IDE  Alt+Shift+Y  
+
+Project 
+ 
+ -  
+Build Main Project  Alt+F11, F11  
+Build Project  -  
+Clean Main Project  -  
+Clean Project  -  
+Clean and Build Main Project  Alt+Shift+F11, Shift+F11  
+Clean and Build Project  -  
+Close Project  -  
+Collapse All  -  
+Compile File  F9  
+Copy...  -  
+Delete  -  
+Files  Ctrl+2  
+From ZIP...  -  
+Generate Javadoc  -  
+Move...  -  
+New File...  -  
+New Project...  Ctrl+Shift+N  
+Open Project of Folder  -  
+Open Project...  Ctrl+Shift+O  
+Open Recent Project  -  
+Open Required Projects  -  
+Project Groups...  -  
+Project Properties  -  
+Projects  Ctrl+1  
+Rename...  -  
+Repeat Build/Run  Ctrl+F11  
+Resolve Project Problems...  -  
+Run File  Shift+F6  
+Run Main Project  F6  
+Run Project  -  
+Run Selenium Tests  -  
+Save as Template  -  
+Set Project Browser  -  
+Set Project Configuration  -  
+Set as Main Project  -  
+Show Selected Node(s) Project Owner  -  
+Stop Build/Run  -  
+Synchronize Editor with Views  -  
+Test File  Ctrl+F6  
+Test Project  Alt+F6  
+To ZIP...  -  
+
+Refactor 
+ 
+Copy...  Alt+C  
+Extract Inline Style...  -  
+Find Usages  Alt+F7  
+Move...  Ctrl+M  
+Refactor  -  
+Rename...  Ctrl+R  
+Safely Delete...  Alt+DELETE  
+
+Source 
+ 
+Comment  Ctrl+Shift+T  
+Edit CSS Rules  -  
+Fix Code...  Alt+ENTER  
+Format  Ctrl+Shift+F  
+Inspect...  -  
+Next Error in Editor  -  
+Next Matching Word  Ctrl+L  
+Previous Matching Word  Ctrl+K  
+Refresh Metadata  -  
+Scan for External Changes  -  
+Shift Line Left  Ctrl+D  
+Shift Line Right  Ctrl+T  
+Uncomment  Ctrl+Shift+D  
+
+Subversion 
+ 
+Checkout...  -  
+Cleanup  -  
+Commit...  -  
+Copy to...  -  
+Diff  -  
+Exclude "InvoiceView.js" from Commit  -  
+Export Uncommitted Changes...  -  
+Export...  -  
+Ignore  -  
+Import into Repository...  -  
+Mark Resolved  -  
+Merge to...  -  
+Properties  -  
+Relocate...  -  
+Resolve Conflicts...  -  
+Revert Modifications...  -  
+Search History...  -  
+Shelve Changes...  -  
+Show Annotations  -  
+Show Changes  -  
+Subversion  -  
+Switch to...  -  
+Update Project with Dependencies  -  
+Update to HEAD  -  
+Update to...  -  
+Upgrade Working Copy  -  
+Versioning Info  -  
+
+System 
+ 
+Add  -  
+Add Cloud...  -  
+Add Server...  -  
+Cancel Process  Ctrl+Shift+DELETE  
+Change Order...  -  
+Check for Updates  -  
+Close  -  
+DTDs and XML Schemas  -  
+Edit  -  
+Exit  -  
+Filesystem Action  -  
+Garbage Collect  -  
+Instantiate  -  
+Keep Prior Tabs  -  
+Move Down  -  
+Move Up  -  
+New  -  
+New Mode  -  
+Next Error  F12  
+Open  -  
+Open File...  Ctrl+O  
+Open Recent File  Ctrl+Shift+T  
+Page Setup...  -  
+Plugins  -  
+Popup  Shift+F10, CONTEXT_MENU  
+Previous Error  Shift+F12  
+Print...  -  
+Properties  -  
+Refresh Folder  -  
+Rename...  -  
+Run SQL  Ctrl+Shift+E  
+Run SQL Selection  -  
+SQL History  Ctrl+Alt+Shift+H  
+Save  Ctrl+S  
+Save All  -  
+Save As Template...  -  
+Save As...  -  
+Templates  -  
+Tools  -  
+View  -  
+
+Team 
+ 
+ -  
+Create Build Job...  -  
+Log In...  -  
+New Build...  -  
+Open in Browser  -  
+Persist  -  
+View  -  
+
+Terminal 
+ 
+Clear  -  
+Close  Ctrl+Shift+W  
+Copy  Ctrl+Shift+C  
+Dump Sequences  -  
+Find  -  
+Larger Font  -  
+Paste  Ctrl+Shift+V  
+Pin Tab...  -  
+Set Title...  -  
+Smaller Font  -  
+Wrap lines  -  
+
+Tools 
+ 
+Ant Variables  -  
+Apply Diff Patch...  -  
+Cloud Providers  -  
+Code Clips  -  
+Diff  -  
+Go to File...  Alt+Shift+L  
+HTML/JSP Code Clips  -  
+Libraries  -  
+Servers  -  
+Show Diff Sidebar  -  
+
+Unit Tests 
+ 
+Create/Update Tests  Ctrl+Shift+U  
+Go to Test/Tested class  Ctrl+Alt+T  
+Set Karma Configuration  -  
+
+Versioning 
+ 
+Show Versioning Labels  -  
+Versioning Output  -  
+
+Versioning/Additional 
+ 
+ -  
+
+Versioning/UnshelveChanges 
+ 
+Unshelve Changes...  -  
+
+View 
+ 
+ -  
+Collapse All  Ctrl+Shift+MINUS, Ctrl+Shift+SUBTRACT  
+Collapse Fold  Ctrl+MINUS, Ctrl+SUBTRACT  
+Customize  -  
+Customize Zoom  -  
+Expand All  Ctrl+Shift+ADD, Ctrl+Shift+PLUS, Ctrl+Shift+EQUALS  
+Expand Fold  Ctrl+PLUS, Ctrl+EQUALS, Ctrl+ADD  
+IDE Log  -  
+Web Browser  -  
+Zoom In  -  
+Zoom Out  -  
+
+Window 
+ 
+Action Items  Ctrl+6  
+Add to Favorites  -  
+Browser DOM  -  
+CSS Styles  -  
+Clone Document  -  
+Close All Documents  Ctrl+Shift+F4, Ctrl+Shift+W  
+Close Group  -  
+Close Other Documents  -  
+Close Window  Ctrl+F4, Ctrl+W  
+Collapse Document Tab Group  -  
+Dock  Alt+Shift+D  
+Dock Group  -  
+Document Groups  -  
+Documents...  Shift+F4  
+Editor  Ctrl+0  
+Exception Reporter  -  
+Export Shortcuts to HTML  -  
+Favorites  Ctrl+3  
+Find Usages Results  Alt+Shift+U  
+Float  -  
+Float Group  -  
+Full Screen  Alt+Shift+ENTER  
+Go to Previous Document  -  
+Go to Previous Window  -  
+Inspector  -  
+Knockout  -  
+LocalTerminalAction  -  
+Maximize  Shift+ESCAPE  
+Minimize  -  
+Minimize Group  -  
+Move  -  
+Move Group  -  
+Navigator  Ctrl+7  
+Network Monitor  -  
+New Document Tab Group  -  
+Next Inner View  Alt+Shift+RIGHT  
+Next Tab  Alt+RIGHT  
+Notifications  -  
+Open in Terminal  Alt+Shift+K  
+Options  -  
+Output  Ctrl+4  
+Palette  Ctrl+Shift+8  
+Previous Inner View  Alt+Shift+LEFT  
+Previous Tab  Alt+LEFT  
+Processes  -  
+Properties  Ctrl+Shift+7  
+Refactoring Preview  -  
+Reload Windows  -  
+RemoteTerminalAction  -  
+Remove from Favorites  -  
+Reset Windows  -  
+Save Window Setup  -  
+Search Results  Ctrl+Shift+0  
+Services  Ctrl+5  
+Shift Window Tab Left  Ctrl+Alt+Shift+LEFT  
+Shift Window Tab Right  Ctrl+Alt+Shift+RIGHT  
+Show Only Editor  Ctrl+Shift+ENTER  
+Size Group  -  
+Switch Role  -  
+Tasks  Ctrl+Shift+6  
+Terminal  -  
+TerminalSettingsAction  -  
+Test Results  Alt+Shift+R  
+Toolbars  -  
+
+Window/Debug 
+ 
+Breakpoints  Alt+Shift+5  
+Call Stack  Alt+Shift+3  
+Debugging  Alt+Shift+9  
+Sessions  Alt+Shift+6  
+Sources  Alt+Shift+8  
+Threads  Alt+Shift+7  
+Variables  Alt+Shift+1  
+Watches  Alt+Shift+2  
+
+Window/SelectDocumentNode 
+ 
+Select in Favorites  Ctrl+Shift+3  
+Select in Files  Ctrl+Shift+2  
+Select in Projects  Ctrl+Shift+1  
+
+XML 
+ 
+All DTD actions  -  
+All XML actions  -  
+Check DTD  -  
+Check File  Alt+F9  
+Generate DTD...  -  
+Validate File  Alt+Shift+F9  
+XSL Transformation...  Ctrl+Alt+T  

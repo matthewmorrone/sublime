@@ -4,6 +4,10 @@
 		"command": "find_all_under_expand"
 	},
 	{
+		"caption": "Find Scope Under Expand",
+		"command": "find_scope_under_expand"
+	},
+	{
 		"caption": "Join Lines Without Space",
 		"command": "join_lines_without_space"
 	},
@@ -52,8 +56,51 @@
 		"command": "convert_to_two_spaces"
 	},
 	{
+		"caption": "Reindent All",
+		"command": "reindent_all"
+	},	
+	{
+		"caption": "Workflow",
+		"command": "workflow"
+	},	
+	{
+		"caption": "Strip Tags",
+		"command": "strip_tags"
+	},
+	{
+		"caption": "Better Block Comment",
+		"command": "better_block_comment"
+	},
+	{
+		"caption": "Set Scratch",
+		"command": "set_scratch"
+	},
+	{
+		"caption": "Save All Existing Files",
+		"command": "save_all_existing_files"
+	},
+	{
+		"caption": "Remove HTML Comments",
+		"command": "remove_html_comments"
+	},
+	{
+		"caption": "Fold Comments",
+		"command": "fold_comments"
+	},
+	{
+		"caption": "Unfold Comments",
+		"command": "unfold_comments"
+	},
+	
+	    { "caption": "LogMagic Statement Below", "command": "log_magic_down" , "args" : {} },
+	    { "caption": "LogMagic Statement Above", "command": "log_magic_up" , "args" : {} },
+
+	{
+		"caption": "Insert Line Numbers",
+		"command": "insert_line_numbers"
+	},
+	{
 		"caption": "",
 		"command": ""
 	},
-
 ]

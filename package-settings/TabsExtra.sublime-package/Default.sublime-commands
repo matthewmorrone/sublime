@@ -1,0 +1,35 @@
+[
+    {
+        "caption": "TabsExtra: Sort Tabs",
+        "command": "tabs_extra_sort_menu"
+    },
+    {
+        "caption": "TabsExtra: Sticky Tab",
+        "command": "tabs_extra_set_sticky",
+        "args": {"value": true}
+    },
+    {
+        "caption": "TabsExtra: Unsticky Tab",
+        "command": "tabs_extra_set_sticky",
+        "args": {"value": false}
+    },
+    {
+        "caption": "TabsExtra: Clear All Sticky Tabs",
+        "command": "tabs_extra_clear_all_sticky"
+    },
+    {
+        "caption": "TabsExtra: Close Tabs",
+        "command": "tabs_extra_close_menu",
+        "args": {"mode": "normal"}
+    },
+    {
+        "caption": "TabsExtra: Close Tabs (Skip Unsaved)",
+        "command": "tabs_extra_close_menu",
+        "args": {"mode": "skip_unsaved"}
+    },
+    {
+        "caption": "TabsExtra: Close Tabs (Dismiss Unsaved)",
+        "command": "tabs_extra_close_menu",
+        "args": {"mode": "dismiss_unsaved"}
+    }
+]

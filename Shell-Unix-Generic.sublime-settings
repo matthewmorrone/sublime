@@ -1,6 +1,9 @@
 {
 	"extensions":
 	[
-		"ps1"
+		"bash",
+		"ps1",
+		"sh",
+		"zsh"
 	]
 }

@@ -1,0 +1,236 @@
+{"keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": {"block": false}},
+{"keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"}},
+{"keys": ["alt+shift+down"], "command": "duplicate_line"},    
+{"keys": ["ctrl+d"], "command": "duplicate_line"},
+{"keys": ["ctrl+alt+f"], "command": "code_formatter"},    
+
+
+
+
+Copy  COPY, Ctrl+C, Ctrl+INSERT  
+Copy File Path(s)  Alt+Shift+L  
+Cut  CUT, Shift+DELETE, Ctrl+X  
+Delete Next Character  DELETE  
+
+Find Next Occurrence  F3  
+Find Previous Occurrence  Shift+F3  
+Find Selection  Ctrl+F3  
+Find in Projects...  Ctrl+Shift+F  
+Find...  FIND, Ctrl+F  
+Go to Line...  Ctrl+G  
+Go to Symbol...  Ctrl+Alt+Shift+O  
+Go to Type...  Ctrl+O  
+Paste  PASTE, Ctrl+V, Shift+INSERT  
+Quick Search  Ctrl+I  
+
+
+
+
+
+Replace  Ctrl+H  
+Replace in Projects...  Ctrl+Shift+H  
+Replace...  Ctrl+H  
+
+
+
+
+Toggle Bookmark  Ctrl+Shift+M  
+
+
+
+
+ 
+Go to Declaration  Ctrl+B  
+
+
+ 
+Annotations Cycling  Alt+Shift+C  
+Back  Alt+LEFT, Alt+KP_LEFT  
+Collapse Fold Tree  Ctrl+DIVIDE  
+Complete Line  Ctrl+SEMICOLON  
+Complete Line and Create New Line  Ctrl+Shift+SEMICOLON  
+Delete Line  Ctrl+E  
+Delete Next Word  Ctrl+DELETE  
+Delete Previous Character  Shift+BACK_SPACE, BACK_SPACE  
+Delete Previous Word  Ctrl+BACK_SPACE  
+Delete Tab  Shift+TAB  
+Duplicate Line(s) Down  Ctrl+Shift+KP_DOWN, Ctrl+Shift+DOWN  
+Duplicate Line(s) Up  Ctrl+Shift+KP_UP, Ctrl+Shift+UP  
+Expand Fold Tree  Ctrl+MULTIPLY, Ctrl+Alt+PLUS  
+Extend Selection Backward  Shift+KP_LEFT, Shift+LEFT  
+Extend Selection Down  Shift+DOWN, Shift+KP_DOWN  
+Extend Selection Forward  Shift+RIGHT, Shift+KP_RIGHT  
+Extend Selection Up  Shift+UP, Shift+KP_UP  
+Extend Selection to Beginning of Document  Ctrl+Shift+HOME  
+Extend Selection to Beginning of Text on Line  Shift+HOME  
+Extend Selection to End of Document  Ctrl+Shift+END  
+Extend Selection to End of Line  Shift+END  
+Extend Selection to Matching Brace  Ctrl+Shift+OPEN_BRACKET  
+Extend Selection to Next Page  Shift+PAGE_DOWN  
+Extend Selection to Next Word  Ctrl+Shift+KP_RIGHT, Ctrl+Shift+RIGHT  
+Extend Selection to Previous Page  Shift+PAGE_UP  
+Extend Selection to Previous Word  Ctrl+Shift+KP_LEFT, Ctrl+Shift+LEFT  
+Fast Import  Alt+Shift+I  
+Fixes use statements.  Ctrl+Shift+I  
+Forward  Alt+RIGHT, Alt+KP_RIGHT  
+Goto Line or Bookmark ...  Ctrl+G  
+Insert Code  Alt+INSERT  
+Insert Newline  ENTER  
+Insert Tab  TAB  
+Insertion Point Backward  LEFT, KP_LEFT  
+Insertion Point Down  DOWN, KP_DOWN  
+Insertion Point Forward  RIGHT, KP_RIGHT  
+Insertion Point Up  KP_UP, UP  
+Insertion Point to Beginning of Document  Ctrl+HOME  
+Insertion Point to Beginning of Text on Line  HOME  
+Insertion Point to End of Document  Ctrl+END  
+Insertion Point to End of Line  END  
+Insertion Point to Matching Brace  Ctrl+OPEN_BRACKET  
+Insertion Point to Next Word  Ctrl+RIGHT, Ctrl+KP_RIGHT  
+Insertion Point to Previous Word  Ctrl+LEFT, Ctrl+KP_LEFT  
+Last edit  Ctrl+Q  
+Move Code Element Down  Alt+Shift+PAGE_DOWN  
+Move Code Element Up  Alt+Shift+PAGE_UP  
+Move Insertion Point to Bottom  Alt+Shift+END  
+Move Insertion Point to Center  Alt+Shift+INSERT  
+Move Insertion Point to Top  Alt+Shift+HOME  
+Move Line(s) Down  Alt+Shift+DOWN, Alt+Shift+KP_DOWN  
+Move Line(s) Up  Alt+Shift+KP_UP, Alt+Shift+UP  
+Navigate to Next Occurrence  Alt+DOWN  
+Navigate to Previous Occurrence  Alt+UP  
+Page Down  PAGE_DOWN  
+Page Up  PAGE_UP  
+Paste Formatted  Ctrl+Shift+V  
+Paste from History  Ctrl+Shift+D  
+Rename  Ctrl+R  
+Scroll Down  Ctrl+KP_UP, Ctrl+UP  
+Scroll Up  Ctrl+KP_DOWN, Ctrl+DOWN  
+
+Show Method Parameters  Ctrl+P  
+Split Line  Ctrl+ENTER  
+Start New Line  Shift+ENTER  
+Switch Case  Ctrl+U S  
+To Lowercase  Ctrl+U L  
+To Uppercase  Ctrl+U U  
+Toggle Highlight Search  Alt+Shift+H  
+Toggle Rectangular Selection  Ctrl+Shift+R  
+Toggle Typing Mode  INSERT  
+Transpose Letters  Ctrl+T  
+Zoom Text In  Alt+MOUSE_WHEEL_UP  
+Zoom Text Out  Alt+MOUSE_WHEEL_DOWN  
+toggle-comment  Ctrl+Shift+C, Ctrl+SLASH  
+
+
+Build Main Project  Alt+F11, F11  
+Clean and Build Main Project  Alt+Shift+F11, Shift+F11  
+Compile File  F9  
+Files  Ctrl+2  
+New Project...  Ctrl+Shift+N  
+Open Project...  Ctrl+Shift+O  
+Projects  Ctrl+1  
+Repeat Build/Run  Ctrl+F11  
+Run File  Shift+F6  
+Run Main Project  F6  
+Test File  Ctrl+F6  
+Test Project  Alt+F6  
+
+Refactor 
+ 
+Copy...  Alt+C  
+Find Usages  Alt+F7  
+Move...  Ctrl+M  
+Rename...  Ctrl+R  
+Safely Delete...  Alt+DELETE  
+
+Source 
+ 
+Fix Code...  Alt+ENTER  
+Format  Alt+Shift+F  
+Next Matching Word  Ctrl+Shift+K  
+Previous Matching Word  Ctrl+K  
+Shift Line Left  Alt+Shift+KP_LEFT, Alt+Shift+LEFT  
+Shift Line Right  Alt+Shift+RIGHT, Alt+Shift+KP_RIGHT  
+
+ 
+
+System 
+ 
+
+Previous Error  Ctrl+COMMA  
+Run SQL  Ctrl+Shift+E  
+SQL History  Ctrl+Alt+Shift+H  
+Save  Ctrl+S  
+Save All  Ctrl+Shift+S  
+
+  { "keys": ["ctrl+s"], "command": "save" },
+  { "keys": ["ctrl+shift+s"], "command": "save_all" },
+
+ 
+
+
+Collapse Fold  Ctrl+MINUS, Ctrl+SUBTRACT  
+Expand Fold  Ctrl+PLUS, Ctrl+EQUALS, Ctrl+ADD  
+Collapse All  Ctrl+Shift+MINUS, Ctrl+Shift+SUBTRACT  
+Expand All  Ctrl+Shift+ADD, Ctrl+Shift+PLUS, Ctrl+Shift+EQUALS  
+
+{ "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+{ "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+{ "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+{ "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+{ "keys": ["ctrl+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+{ "keys": ["f12"], "command": "goto_definition" },
+{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+
+{ "keys": ["ctrl+shift+["], "command": "fold" },
+{ "keys": ["ctrl+shift+]"], "command": "unfold" },
+{ "keys": ["ctrl+k", "ctrl+1"], "command": "fold_by_level", "args": {"level": 1} },
+{ "keys": ["ctrl+k", "ctrl+2"], "command": "fold_by_level", "args": {"level": 2} },
+{ "keys": ["ctrl+k", "ctrl+3"], "command": "fold_by_level", "args": {"level": 3} },
+{ "keys": ["ctrl+k", "ctrl+4"], "command": "fold_by_level", "args": {"level": 4} },
+{ "keys": ["ctrl+k", "ctrl+5"], "command": "fold_by_level", "args": {"level": 5} },
+{ "keys": ["ctrl+k", "ctrl+6"], "command": "fold_by_level", "args": {"level": 6} },
+{ "keys": ["ctrl+k", "ctrl+7"], "command": "fold_by_level", "args": {"level": 7} },
+{ "keys": ["ctrl+k", "ctrl+8"], "command": "fold_by_level", "args": {"level": 8} },
+{ "keys": ["ctrl+k", "ctrl+9"], "command": "fold_by_level", "args": {"level": 9} },
+{ "keys": ["ctrl+k", "ctrl+0"], "command": "unfold_all" },
+{ "keys": ["ctrl+k", "ctrl+j"], "command": "unfold_all" },
+{ "keys": ["ctrl+k", "ctrl+t"], "command": "fold_tag_attributes" },
+{"keys": ["ctrl+k", "ctrl+f"], "command": "prompt_fold_to_lines", "args": {"search_type": "string"}},
+{"keys": ["ctrl+k", "ctrl+a"], "command": "fold_all"},
+
+{"keys": ["alt+/"], "command": "fold_comments"},
+{"keys": ["alt+shift+/"], "command": "unfold_comments"},
+
+Go to File...  Alt+Shift+O  
+
+
+Dock  Alt+Shift+D  
+Documents...  Shift+F4  
+Editor  Ctrl+0  
+Favorites  Ctrl+3  
+Find Usages Results  Alt+Shift+U  
+
+
+
+
+
+Next Inner View  Ctrl+Alt+PAGE_DOWN  
+Next Tab  Ctrl+PAGE_DOWN  
+Previous Inner View  Ctrl+Alt+PAGE_UP  
+Previous Tab  Ctrl+PAGE_UP  
+{
+  "keys": ["ctrl+shift+pageup"],
+  "command": "move_tab",
+  "args": { "position": "-1" }
+},
+{
+  "keys": ["ctrl+shift+pagedown"],
+  "command": "move_tab",
+  "args": { "position": "+1" }
+}
+Shift Window Tab Left  Ctrl+Alt+Shift+LEFT  
+Shift Window Tab Right  Ctrl+Alt+Shift+RIGHT  
+Show Only Editor  Ctrl+Shift+ENTER  
+
+
+  

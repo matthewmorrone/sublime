@@ -1,0 +1,12 @@
+{
+	"colors_by_scope":
+	[
+		"string",
+		"entity.name.class",
+		"variable.parameter",
+		"invalid.deprecated",
+		"invalid",
+		"support.function"
+	],
+	"use_regex": true
+}

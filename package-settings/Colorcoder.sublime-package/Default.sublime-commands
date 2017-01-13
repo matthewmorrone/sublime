@@ -1,0 +1,6 @@
+[{	"caption": "Tweak Colorcode to current color scheme",
+	"command": "colorshemeemodifier"
+},{
+	"caption": "Toggle Colorcode on this view",
+	"command": "colorcodertoggler"
+}]

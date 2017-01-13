@@ -10,6 +10,6 @@ class StripTagsCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		view = self.view
 		window = sublime.active_window()
-		ReplaceAll(edit, view, "</?.+?>", "")
+		ReplaceAll(edit, view, "<\/?.+?>", "")
 
 

@@ -1,13 +1,57 @@
 {
-    "files": [
-        "C:\\Users\\c-mmorrone\\Documents\\WindowsPowerShell\\profile.ps1",
-        "C:\\Users\\c-mmorrone\\Documents\\WindowsPowerShell\\Microsoft.PowerShell_profile.ps1",
-        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Microsoft.PowerShell_profile.ps1",
-        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\profile.ps1",
-        "C:\\Users\\c-mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings",
-        "C:\\Users\\c-mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap",
-        "C:\\Users\\c-mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Main.sublime-menu"
-    ],
-    "groups": {},
+    "files": [],
+    "groups": {
+        "Bookmarks": [
+            "C:\\Projects\\eadmin\\dev\\public\\css\\reminder.css",
+            "C:\\Projects\\eadmin\\dev\\public\\customizations\\Project\\Model\\Elunic\\NaviItem\\TaskManagerView.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Contact\\js\\models\\Elunic\\Employee.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Contact\\js\\models\\Elunic\\Employee.server.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\PriorityList.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element\\CheckBox.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element\\CheckBoxList.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element\\IconSelect.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element\\InputBox.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element\\Table\\Extension\\InlineEditing.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Finance.Accounting\\js\\models\\Elunic\\Activity\\InvoiceView.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Project\\js\\models\\TaskManager.js",
+            "C:\\Projects\\eadmin\\dev\\src\\modules\\Contact\\controllers\\ZoneController.js"
+        ],
+        "Helpers": [
+            "C:\\Projects\\eadmin\\dev\\src\\modules\\Core\\helpers\\Console.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\View\\Element.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\RawElement.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\ElunicView.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\Elunic.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\EEvent.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\dynamic_constants.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\helperFunctions.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\EventBroker.js",
+            "C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js\\Object.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\Helper\\jQueryCustoms.js",
+            "C:\\Projects\\starhunter\\branches\\node\\src\\modules\\Core\\helpers\\JqueryStubs.js",
+            "C:\\Projects\\starhunter\\branches\\node\\src\\modules\\Core\\helpers\\MvcHelper.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\Helper\\ContextBox.js",
+            "C:\\Projects\\starhunter\\branches\\node\\public\\modules\\Core\\js\\models\\Helper\\ContextBox.js",
+            "C:\\Projects\\starhunter\\branches\\node\\src\\modules\\Core\\helpers\\PHPHelper.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\Listenable.js",
+            "C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\Globals.js",
+            "C:\\Projects\\eadmin\\dev\\application\\modules\\Core\\models\\Helper\\Debug.php",
+            "C:\\Projects\\eadmin\\dev\\application\\modules\\Core\\models\\Helper\\Import\\Table\\Sql.php",
+            "C:\\Projects\\eadmin\\dev\\application\\modules\\Core\\models\\Helper\\Log.php"
+        ],
+        "Sublime": [
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Default (Windows).sublime-keymap",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\save_on_focus_lost.py",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\show_scope_name.py",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\new_templates.py",
+            "C:\\Users\\mmorrone\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\indentation.py"
+        ],
+        "System": [
+            "C:\\Users\\mmorrone\\Documents\\WindowsPowershell\\Microsoft.PowerShell_profile.ps1"
+        ]
+    },
     "version": 1
 }

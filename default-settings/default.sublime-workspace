@@ -1,0 +1,1064 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"unset",
+				"unset〔function〕"
+			],
+			[
+				"sub",
+				"substr〔function〕"
+			],
+			[
+				"utf",
+				"utf8_encode〔function〕"
+			],
+			[
+				"array_map",
+				"array_map"
+			],
+			[
+				"array_slice",
+				"array_splice"
+			],
+			[
+				"array_walk",
+				"array_walk_recursive"
+			],
+			[
+				"gif",
+				"gifreeze"
+			],
+			[
+				"class",
+				"class=\"icon\t(Title.js)"
+			],
+			[
+				"disc",
+				"discountSum"
+			],
+			[
+				"filter",
+				"filterAttrib"
+			],
+			[
+				"execute",
+				"executeXhr"
+			],
+			[
+				"Set",
+				"Set-Alias"
+			],
+			[
+				"consolee",
+				"consolee\t(Employee.server.js)"
+			],
+			[
+				"invoice",
+				"invoice_address"
+			],
+			[
+				"deb",
+				"debugger〔keyword〕"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"content",
+				"contentContainer"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"isIn",
+				"isInTheZone"
+			],
+			[
+				"avatar",
+				"avatarWebPath"
+			],
+			[
+				"float",
+				"floatingButtonArea"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"html",
+				"html\tHTML"
+			],
+			[
+				"information",
+				"information_schema\t(mysql.php)"
+			],
+			[
+				"min",
+				"min_article_price_gross"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"current",
+				"currentCategories"
+			],
+			[
+				"login",
+				"loginName"
+			],
+			[
+				"Dash",
+				"DashboardComponent\t(app.module.ts)"
+			],
+			[
+				"module",
+				"moduleId\tproperty"
+			],
+			[
+				"location",
+				"location_postal_address"
+			],
+			[
+				"sales_",
+				"sales_partner_contactable"
+			],
+			[
+				"render",
+				"renderDoc"
+			],
+			[
+				"docx",
+				"docx2html\t(index.phtml)"
+			],
+			[
+				"doc",
+				"docx2html"
+			],
+			[
+				"attir",
+				"attribKey"
+			],
+			[
+				"View_Element",
+				"View_Element_FileUpload\t(ElunicView.js)"
+			],
+			[
+				"attribk",
+				"attribKeys"
+			],
+			[
+				"add",
+				"addButton"
+			],
+			[
+				"create",
+				"createHtmlDoc"
+			],
+			[
+				"dat",
+				"dat[\"positions"
+			],
+			[
+				"white",
+				"white-space"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rein",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"remo",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"remove t",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"syntax spec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"copy fr",
+				"Copy from Find Results"
+			],
+			[
+				"hungry",
+				"Hungry Backspace"
+			],
+			[
+				"undersc",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Remove Comments"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"incr",
+				"Increment Selection"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"git",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"console",
+				"consolewrap"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"syntax h",
+				"Set Syntax: Haskell"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"json",
+				"String Utilities: Decode JSON"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"syntax t",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"fav",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"clean",
+				"Favorite Files: Clean Orphaned Favorites"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"string con",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"string",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"high",
+				"Highlighter: Toggle Highlighter"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indent JSON"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"ahk",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"syntax she",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 617.0,
+		"history":
+		[
+			"view.set_scratch(True)",
+			"sublime.log_commands(True)",
+			"view.set_scratch(True)",
+			"sublime.log_commands(True)",
+			"view.set_scratch(True)",
+			"view.set_scratch(False)",
+			"view.set_scratch(True)",
+			"view.set_scratch(true)",
+			"view",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mmorrone/Documents",
+		"/C/Users/mmorrone/Documents/autohotkey",
+		"/C/Users/mmorrone/Documents/autohotkey/app"
+	],
+	"file_history":
+	[
+		"/C/Users/mmorrone/Documents/autohotkey/all.ahk",
+		"/C/Users/mmorrone/Documents/autohotkey/app/vector.ahk",
+		"/C/Users/mmorrone/Documents/autohotkey/batch.ahk",
+		"/C/Users/mmorrone/Documents/autohotkey/explorer.ahk",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/app.iml",
+		"/C/Users/mmorrone/Documents/ChineseYin/ChineseYin.iml",
+		"/C/Users/mmorrone/Documents/ChineseYin/local.properties",
+		"/C/Users/mmorrone/Documents/ChineseYin/settings.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYin/build.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYin/gradle.properties",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/incremental/mergeDebugResources/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/buildConfig/androidTest/debug/org/chinese/icons/test/BuildConfig.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/values/dev_theming.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYang/build.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYang/gradle.properties",
+		"/C/Users/mmorrone/Documents/ChineseYang/local.properties",
+		"/C/Users/mmorrone/Documents/ChineseYang/settings.gradle",
+		"/C/Users/mmorrone/Documents/ChineseYang/ChineseYang.iml",
+		"/C/Users/mmorrone/Documents/ChineseYin/.idea/modules.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/.idea/workspace.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/generated/source/buildConfig/androidTest/debug/org/chinese/icons/test/BuildConfig.java",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/generated/source/buildConfig/debug/org/chineseyin/icons/BuildConfig.java",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/generated/source/r/debug/org/chineseyin/icons/R.java",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/incremental/mergeDebugResources/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/manifests/full/debug/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/res/merged/debug/values/values.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/res/merged/debug/xml/themecfg.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/res/merged/debug/xml/themeinfo.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/values/dev_about.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/values/dev_customization.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/values/strings.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/values/theme_config.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/xml/themecfg.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/src/main/res/xml/themeinfo.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/incremental/mergeDebugAssets/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/app/build/intermediates/incremental/mergeDebugShaders/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/build/intermediates/dex-cache/cache.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/licensing/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYin/licensing/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/fragments/HomeFragment$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/fragments/RequestsFragment$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/fragments/WallpapersFragment$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/fragments/ZooperFragment$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/ui/IconMoreActivity$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/ui/IconPickerActivity$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/ui/MainActivity$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/viewer/ViewerActivity$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/apt/debug/org/chinese/icons/viewer/ViewerPageFragment$$ViewBinder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/buildConfig/debug/org/chinese/icons/BuildConfig.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/generated/source/r/debug/org/chinese/icons/R.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/manifests/full/debug/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/activity_main_content.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/activity_main_drawer.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/fragment_requesticons.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/fragment_viewer.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_about_person.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_apply.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_icon.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_icon_header.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_iconrequest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_wallpaper.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/layout/list_item_zooper.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/values/values.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/xml/drawable.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/build/intermediates/res/merged/debug/xml/themeinfo.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/AndroidManifest.xml",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/AboutAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/ApplyAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/BulletPointListViewAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/IconAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/IconMoreAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/MainPagerAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/RequestsAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/WallpaperAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/adapters/ZooperAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/config/Config.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/config/IConfig.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/dialogs/ChangelogDialog.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/dialogs/IconDetailsDialog.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/dialogs/InvalidLicenseDialog.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/dialogs/ProgressDialogFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/AboutFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/ApplyFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/base/BasePageFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/HomeFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/IconsFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/RequestsFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/WallpapersFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/fragments/ZooperFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/services/GaufrerWallpaperSource.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/transitions/CircularRevealTransition.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/transitions/NoPauseAnimator.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/transitions/TransitionListenerAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/base/BaseDonateActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/base/BaseThemedActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/base/ISelectionMode.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/IconMoreActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/IconPickerActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/ui/MainActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/ApplyUtil.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/DrawableXmlParser.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/LicensingUtils.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/PagesBuilder.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/RequestLimiter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/TintUtils.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/Utils.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/util/WallpaperUtils.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/viewer/FragmentStatePagerAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/viewer/ViewerActivity.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/viewer/ViewerPageAdapter.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/viewer/ViewerPageFragment.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/AboutProfileImageView.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/DisableableViewPager.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/IconHeaderViewGroup.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/NoDragImageView.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/SplitButtonsLayout.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/SquareFrameLayout.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/SquareImageView.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/ViewPagerDragSelectRecyclerView.java",
+		"/C/Users/mmorrone/Documents/ChineseYang/app/src/main/java/org/chinese/icons/views/WallpaperAuthorView.java"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\mmorrone\\Documents\\ChineseYin,*.java,*.xml,*.gradle",
+			"C:\\Users\\mmorrone\\Documents\\ChineseYang,*.java,*.xml,*.gradle",
+			"C:\\Users\\mmorrone\\Documents\\ChineseYang",
+			"C:\\Users\\mmorrone\\Documents\\ChineseYin,*.java,*.xml",
+			"C:\\Users\\mmorrone\\Documents\\ChineseYang,*.java,*.xml",
+			"C:\\Users\\mmorrone\\Documents\\ChineseYin,*.java,*.xml",
+			"C:\\Users\\mmorrone\\Documents\\Chinese,*.java,*.xml",
+			"C:\\Users\\mmorrone\\Documents\\Chinese",
+			"C:\\Users\\mmorrone\\Documents\\autohotkey\\",
+			"C:\\Users\\mmorrone\\Documents\\autohotkey\\dev",
+			"C:\\Users\\mmorrone\\.gimp-2.8\\scripts",
+			"C:\\Users\\mmorrone\\Downloads\\foundation\\svgs",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Users\\mmorrone\\Downloads\\,*.svg",
+			"C:\\Users\\mmorrone\\Downloads\\todo",
+			"C:\\Users\\mmorrone\\Documents\\autohotkey\\dev",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Users\\mmorrone\\Downloads\\Saved Icons",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*\\libs\\*",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\libs",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,*JOINED_SCRIPT*js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-*_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,-*JOINED_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev\\,*.js,",
+			"C:\\Projects\\eadmin\\dev\\,*.js",
+			"C:\\Projects\\eadmin\\dev\\,*.php,*.js",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons,diyz*",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons,diyz*",
+			"C:\\users\\mmorrone\\downloads\\Saved Icons",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\users\\mmorrone\\downloads\\3x",
+			"C:\\projects\\eadmin\\dev",
+			"C:\\projects\\eadmin\\dev,*.js",
+			"C:\\projects\\eadmin\\dev",
+			"C:\\Users\\mmorrone\\Downloads\\universal",
+			"C:\\mmorrone\\Downloads\\universal",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models",
+			"C:\\Projects\\eadmin\\rc",
+			"C:\\Projects\\eadmin\\dev",
+			"*.server.js,C:\\Projects\\eadmin\\dev,-*joined_script.server.js",
+			"*.server.js,C:\\Projects\\eadmin\\dev,-*joined_script.js",
+			"*.server.js,,C:\\Projects\\eadmin\\dev",
+			"*.js,*.html",
+			"",
+			"C:\\Users\\mmorrone\\Downloads\\e1-svg-bw,*.svg",
+			"C:\\Users\\mmorrone\\Downloads\\done,*.svg",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Finance.Accounting",
+			"C:\\Users\\mmorrone\\Downloads\\icons\\messy",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\,*.js,-*.min.js",
+			"C:\\Projects\\eadmin\\,*.js",
+			"C:\\Projects\\eadmin\\",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev,-*.js,-*.ttf",
+			"C:\\Projects\\eadmin\\dev,-*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.phtml",
+			"C:\\Projects\\eadmin\\dev,*html",
+			"C:\\Projects\\eadmin\\dev,*.html",
+			"C:\\Projects\\eadmin\\dev,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*.min.js",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js,-*.min.js",
+			"C:\\Projects\\eadmin\\dev,*.js,-JOINED_SCRIPT.server.js,-EXTERNAL_JOINED_SCRIPT.js",
+			"C:\\Projects\\eadmin\\dev,*.js,-JOINED_SCRIPT.server.js",
+			"C:\\Projects\\eadmin\\dev,*.js,-JOINED_SCRIPT",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.phtml",
+			"C:\\Projects\\eadmin\\dev,*.html",
+			"C:\\Projects\\eadmin\\dev,*html",
+			"C:\\Projects\\eadmin\\dev,*.js,*html",
+			"C:\\Projects\\eadmin\\dev,*.js",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.phtml",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.php",
+			"C:\\Projects\\eadmin\\dev,*.html",
+			"C:\\Projects\\eadmin\\dev,",
+			"C:\\Projects\\eadmin\\dev,*.php",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Users\\mmorrone\\Documents\\autohotkey,-*/dev/*",
+			"C:\\Users\\mmorrone\\Documents\\autohotkey",
+			"C:\\Projects\\eadmin\\dev,-*/vendor/*",
+			"C:\\Projects\\eadmin\\dev,-C:\\Projects\\eadmin\\dev\\application\\modules\\Contact\\libs\\sabredav\\*",
+			"C:\\Projects\\eadmin\\dev,-C:\\Projects\\eadmin\\dev\\application\\modules\\Contact\\libs\\sabredav\\vendor",
+			"C:\\Projects\\eadmin\\dev,-vendor",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\eadmin\\dev,*.php",
+			"C:\\Projects\\eadmin\\dev",
+			"C:\\Projects\\shop\\stable\\,-*.css",
+			"C:\\Projects\\shop\\stable\\",
+			"C:\\Projects\\shop\\stable\\application\\",
+			"C:\\Projects\\shop\\stable\\application\\modules\\Product",
+			"C:\\Projects\\shop\\stable\\application\\modules\\Core\\controllers",
+			"C:\\Projects\\shop\\stable,*.php,*.phtml",
+			"C:\\Projects\\shop\\stable",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\,*.php,-*dbImage.php",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\,*.js",
+			"C:\\Projects\\eadmin\\dev\\,*.php,-dbImage.php",
+			"C:\\Projects\\eadmin\\dev\\,*.php",
+			"C:\\Projects\\eadmin\\dev\\",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js\\models\\Elunic",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js",
+			"C:\\Projects\\eadmin\\dev\\application\\modules\\Core",
+			"C:\\Projects\\eadmin\\dev\\public\\modules\\Core\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chinese[^ yY]",
+			"chinese[^ yY_\\\"\\.=]",
+			"chinese[^ yY_\\\"\\.]",
+			"chinese[^ yY_\\\"]",
+			"chinese[^ yY]",
+			"chinese\\.",
+			"chinese.",
+			"chinese\\b",
+			"chinese",
+			"chineseyin",
+			"chineseyin Yin",
+			"chinese\\b",
+			"yinyin",
+			"YinYin",
+			"chinese",
+			"Chinese",
+			"chinese",
+			".png",
+			"_simp_",
+			"_trad_",
+			"yin",
+			"Yin",
+			"Chinese",
+			"chinese",
+			"<item drawable=\"u6",
+			"<item drawable=\"u7",
+			"<item drawable=\"u8",
+			"<item drawable=\"u9",
+			"category",
+			"Carte Blanche",
+			"carteblanche",
+			"_trad_",
+			".svg",
+			"_simp_",
+			"simplified",
+			"$var",
+			"vars",
+			"variants",
+			" ",
+			"464C",
+			"\tz\t",
+			"semantic",
+			"5169",
+			"traditional",
+			"semantic",
+			"#",
+			"num",
+			"\\b\\w\\w\\w\\w\\w(\\s)",
+			"842C",
+			"Specializedsemantic",
+			"\tZ\t",
+			"Simplified",
+			"Semantic",
+			"Traditional",
+			"\tk",
+			"Variant",
+			"U+",
+			"kAccountingNumeric",
+			"kPrimaryNumeric",
+			"kOtherNumeric",
+			"U+",
+			"<[\\w:,]+",
+			"english",
+			"<[\\w:,]+",
+			"<",
+			".svg",
+			"__",
+			".png",
+			"ls",
+			"git",
+			"kDefinition",
+			"kMandarin",
+			"\t",
+			"/",
+			":",
+			"[^0-9a-zA-Z\\s_]",
+			"!",
+			"[^0-9a-zA-Z\\s_]",
+			"  +",
+			"?",
+			"=",
+			"kdefinition",
+			"kmandarin",
+			"'",
+			")",
+			"(",
+			".",
+			"\\(.+? \\)",
+			"(the large seal type ) ",
+			"\\(.+? \\)",
+			"\\(.+?\\) ",
+			" )",
+			"\\(.+?\\) ",
+			"lei3",
+			";",
+			",",
+			"-",
+			"(interchangeable )",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:\\!=_]",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:\\!=]",
+			"yao2",
+			"ü",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:\\!=]",
+			"ḿ",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:\\!=]",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:\\!]",
+			"[^\\sa-zA-Z0-9,;/\\- ü\\?\\(\\)\\'\\.:]",
+			"[^\\sa-zA-Z0-9,;\\- ü\\?\\(\\)\\'\\.:]",
+			"ǜ",
+			"ü",
+			"[^\\sa-zA-Z0-9,;\\- ü\\?\\(\\)\\'\\.:]",
+			"ǘ",
+			"ǚ",
+			"ǹ",
+			"[^\\sa-zA-Z0-9,;\\- üǚǜǘ\\?\\(\\)\\'\\.:]",
+			"[^\\sa-zA-Z0-9,;\\- üǚǜ\\?\\(\\)\\'\\.:]",
+			"[^\\sa-zA-Z0-9,;\\- üǚ\\?\\(\\)\\'\\.:]",
+			"[^\\sa-zA-Z0-9,;\\- ü\\?\\(\\)\\'\\.:]",
+			"[^\\sa-zA-Z0-9,;\\- ü\\?\\(\\)\\'\\.]",
+			"[^\\sa-zA-Z0-9,;- ü\\?\\(\\)'\\.]",
+			"U+",
+			"ň",
+			"to",
+			"üe",
+			"ü",
+			"ī",
+			"ǒ",
+			"á"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"chineseyin",
+			"yin",
+			"Yin",
+			"chineseyang",
+			"Chinese Yang",
+			"Chinese Yin",
+			"chineseyin",
+			"chinese",
+			"Chinese",
+			"Yin",
+			"yin",
+			"Chinese",
+			"chinese",
+			"$1",
+			"",
+			"english",
+			"pinyin",
+			" ",
+			"",
+			"u_",
+			"",
+			"<br>",
+			"\\n",
+			"",
+			"\\r",
+			"",
+			"fill=\"#ffffff\"",
+			"= ",
+			"downloads",
+			"ffffff\nffffff",
+			"fill=\"#ffffff\" opacity=\"1.00\"",
+			"opacity=\"1.00\"",
+			"ffffff",
+			"fill=\"#ffffff\"",
+			"opacity=\"1.00\"",
+			"fill=\"#ffffff\"",
+			"\\n<path",
+			"fill=\"#ffffff\" opacity=\"1.00\"",
+			"opacity=\"1.00\"",
+			"fill=\"ffffff\"",
+			"\\1 ",
+			"\\n\\1",
+			"",
+			"; #escapechar",
+			"<\\1 \\2",
+			"g \\1",
+			"",
+			"\\3\\4\\1\\2",
+			"<\\1 />"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 709.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "default.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"taskmanager",
+				"dev\\public\\modules\\Project\\js\\models\\TaskManager.js"
+			],
+			[
+				"xmlhttprequest",
+				"src\\modules\\Core\\node_modules\\xmlhttprequest\\README.md"
+			],
+			[
+				"invoic",
+				"Documents\\InvoiceView.js"
+			],
+			[
+				"zone",
+				"dev\\src\\modules\\Contact\\controllers\\ZoneController.js"
+			],
+			[
+				"contextbox",
+				"dev\\public\\modules\\Core\\js\\models\\Helper\\ContextBox.js"
+			],
+			[
+				"employee.js",
+				"dev\\public\\modules\\Contact\\js\\models\\Elunic\\Employee.js"
+			],
+			[
+				"invoiceview.js",
+				"dev\\public\\modules\\Finance.Accounting\\js\\models\\Elunic\\Activity\\InvoiceView.js"
+			],
+			[
+				"vcard.html",
+				"dev\\application\\modules\\Contact\\views\\scripts\\card-dav\\vcard.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\mmorrone\\Desktop\\dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
