@@ -1,1 +1,0 @@
-"""Color Helper library."""

@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Alignment",
+		"AutoHotkey",
+		"COBOL Syntax",
+		"DiffTabs",
+		"Highlight Duplicates",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"INI",
+		"JSON Reindent",
+		"JSONComma",
+		"MoveTab",
+		"Package Control",
+		"PowerShell",
+		"SideBarEnhancements",
+		"Smart Title Case",
+		"Sort Lines (Numerically)",
+		"Swap Selections",
+		"TransposeCharacter",
+		"Trimmer"
+	]
+}

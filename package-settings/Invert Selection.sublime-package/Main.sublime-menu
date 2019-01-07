@@ -1,9 +1,0 @@
-[
-    {
-        "id": "selection",
-        "children":
-        [
-                {"command": "invert_selection"}
-        ]
-    }
-]
