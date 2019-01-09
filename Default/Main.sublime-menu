@@ -793,14 +793,15 @@
             //     ]
             // },
             // { "command": "toggle_save_all_on_build", "caption": "Save All on Build", "mnemonic": "A", "checkbox": true },
-            // { "caption": "-", "id": "macros" },
-            // { "command": "toggle_record_macro", "mnemonic": "M" },
-            // { "command": "run_macro", "caption": "Playback Macro", "mnemonic": "P" },
-            // { "command": "save_macro", "caption": "Save Macro…", "mnemonic": "v" },
-            // {
-            //     "caption": "Macros",
-            //     "children": [ { "command": "$macros" } ]
-            // },
+            { "caption": "-", "id": "macros" },
+            { "command": "toggle_record_macro", "mnemonic": "M" },
+            { "command": "run_macro", "caption": "Playback Macro", "mnemonic": "P" },
+            { "command": "save_macro", "caption": "Save Macro…", "mnemonic": "v" },
+            { "command": "$macros" },
+            {
+                "caption": "Macros",
+                "children": [ { "command": "$macros" } ]
+            },
             { "caption": "-" },
             { "command": "new_plugin", "caption": "New Plugin…" },
             { "command": "new_snippet", "caption": "New Snippet…" },

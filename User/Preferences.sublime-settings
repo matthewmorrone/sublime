@@ -60,9 +60,10 @@
 		"*.pyo",
 		"*.sdf",
 		"*.so",
+		"*.suo",
 		"*.sublime-project",
 		"*.sublime-workspace",
-		"*.suo",
+		"desktop.ini",
 		".DS_Store",
 		"JOINED_SCRIPT.server.js",
 		"EXTERNAL_JOINED_SCRIPT.js"
@@ -75,14 +76,27 @@
 		".svn",
 		"CVS"
 	],
+	"font_face": "Everson Mono",
 	"font_options":
 	[
 		"no_italic",
 		"subpixel_antialias",
 		"gdi",
+		"ss01",
 		"directwrite"
 	],
-	"font_size": 14,
+	"font_size": 17,
+	"fonts_list":
+	[
+		"Antinoou",
+		"Consolas",
+		"Quivira",
+		"FreeSans",
+		"FreeSerif",
+		"Noto Sans Coptic",
+		"Droid Sans",
+		"Everson Mono"
+	],
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,

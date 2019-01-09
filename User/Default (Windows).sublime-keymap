@@ -11,7 +11,9 @@
 {"keys": ["ctrl+shift+tab"],	"command": "prev_view"},
 {"keys": ["ctrl+shift+."],		"command": "open_dir", "args": {"dir": "$packages"}},
 {"keys": ["f2"],				"command": "find_prev"},
+{"keys": ["ctrl+f2"],			"command": "previous_font"},
 {"keys": ["f3"],				"command": "find_next"},
+{"keys": ["ctrl+f3"],			"command": "next_font"},
 {"keys": ["f5"],				"command": "sort_lines"},
 {"keys": ["f6"],				"command": "permute_lines", "args": {"operation": "reverse"}},
 {"keys": ["f9"],				"command": "sort_lines"},
@@ -50,7 +52,8 @@
 {"keys": ["ctrl+p"],			"command": "show_overlay", "args": {"overlay": "command_palette"}},
 {"keys": ["ctrl+q"],			"command": "close_file"},
 {"keys": ["ctrl+r"],			"command": "refresh_folder_list"},
-{"keys": ["ctrl+s"],			"command": "save_all"},
+{"keys": ["ctrl+s"],			"command": "save"},
+{"keys": ["ctrl+alt+s"],		"command": "save_all"},
 {"keys": ["ctrl+shift+s"],		"command": "save_as"},
 {"keys": ["ctrl+t"],			"command": "new_file"},
 {"keys": ["ctrl+u"],			"command": "soft_undo"},
@@ -135,7 +138,8 @@
 {"keys": ["alt+shift+end"],		"command": "move_tab", "args": {"position": "999"}},
 {"keys": ["alt+shift+home"],	"command": "move_tab", "args": {"position": "0"}},
 {"keys": ["alt+left"],			"command": "move_tab", "args": {"position": "-1"}},
-{"keys": ["alt+right"],			"command": "move_tab", "args": {"position": "+1"}}
+{"keys": ["alt+right"],			"command": "move_tab", "args": {"position": "+1"}},
 
-
+{"keys": ["ctrl+\\"], "command": "align_tab", "args" : {"user_input" : "\\|", "live_preview" : true}},
+{"keys": ["ctrl+shift+\\"], "command": "align_tab", "args" : {"user_input" : "\\|"}}
 ]

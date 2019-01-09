@@ -1,0 +1,21 @@
+[
+	{"command": "find_all_under_expand", "args": null },
+	{"command": "move_to", "args": {"extend": false, "to": "bol"} },
+	{"command": "cut", "args": null },
+	{"command": "select_all", "args": null },
+	{"command": "left_delete", "args": null },
+	{"command": "paste_and_indent", "args": null },
+	{"command": "permute_lines", "args": {"operation": "reverse"} },
+	// {"command": "find_all_under_expand", "args": null },
+	// {"command": "move", "args": {"by": "characters", "forward": true} },
+	// {"command": "move_to", "args": {"extend": true, "to": "bol"} },
+]
+
+
+// command: drag_select {"event": {"button": 1, "x": 473.5, "y": 295.5}}
+// command: find_all_under_expand   = new cjs.Text("
+// command: move {"by": "characters", "forward": true}
+// command: cut
+// command: select_all
+// command: left_delete
+// command: paste_and_indent

@@ -1,5 +1,9 @@
 [
 	{
+		"caption": "Find All",
+		"command": "find_all"
+	},
+	{
 		"caption": "Find All Under Expand",
 		"command": "find_all_under_expand"
 	},
@@ -34,6 +38,10 @@
 	{
 		"caption": "Remove Comments",
 		"command": "remove_comments"
+	},
+	{
+		"caption": "Remove Duplicate Characters",
+		"command": "remove_duplicate_characters"
 	},
 	{
 		"caption": "Remove Block Comments",
